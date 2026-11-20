@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-20T17:43:54+00:00",
- "updatedIST": "20 Nov 2026, 11:13 PM IST",
+ "updatedAt": "2026-11-20T17:54:53+00:00",
+ "updatedIST": "20 Nov 2026, 11:24 PM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
@@ -31,13 +31,13 @@
    "chg30Pct": 10.46
   },
   "brent": {
-   "last": 88.93,
+   "last": 89.07,
    "prev": 91.98,
-   "chgPct": -3.32,
+   "chgPct": -3.16,
    "high52": 118.35,
    "low52": 58.92,
-   "offHighPct": -24.86,
-   "chg30Pct": -21.42
+   "offHighPct": -24.74,
+   "chg30Pct": -21.3
   },
   "usdinr": {
    "last": 92.66,
@@ -49,31 +49,31 @@
    "chg30Pct": -1.75
   },
   "gold": {
-   "last": 114658.76,
+   "last": 114574.34,
    "prev": 119675.69,
-   "chgPct": -4.19,
+   "chgPct": -4.26,
    "high52": 172699.28,
-   "low52": 114658.76,
-   "offHighPct": -33.61,
-   "chg30Pct": -13.04,
-   "usdOz": 3531.0
+   "low52": 114574.33,
+   "offHighPct": -33.66,
+   "chg30Pct": -13.1,
+   "usdOz": 3528.4
   },
   "silver": {
-   "last": 133135.35,
+   "last": 132956.76,
    "prev": 143909.58,
-   "chgPct": -7.49,
+   "chgPct": -7.61,
    "high52": 373688.21,
-   "low52": 133135.35,
-   "offHighPct": -64.37,
-   "chg30Pct": -25.13,
-   "usdOz": 41.0
+   "low52": 132956.75,
+   "offHighPct": -64.42,
+   "chg30Pct": -25.23,
+   "usdOz": 40.95
   }
  },
  "alerts": [
   {
    "id": "gold-move-20261120",
    "level": "tip",
-   "title": "Gold fell 4.2% today",
+   "title": "Gold fell 4.3% today",
    "body": "Keep buying only your monthly gold SIP. No lumpsum."
   },
   {
