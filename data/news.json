@@ -1,0 +1,71 @@
+{
+ "updatedAt": "2026-11-17T12:00:00+00:00",
+ "updatedIST": "17 Nov 2026 (starter data)",
+ "seed": true,
+ "topics": [
+  {
+   "key": "rbi",
+   "icon": "🏦",
+   "means": "RBI decisions change FD, loan and bond-fund returns.",
+   "rule": "Rates rising → keep debt short. Rates cut → longer-duration debt becomes attractive.",
+   "mood": "bad",
+   "items": [
+    {
+     "title": "RBI raises repo rate by 25 bps to 5.50%, shifts stance to calibrated tightening",
+     "source": "Moneylife",
+     "link": "https://www.moneylife.in/article/repo-rate-raised-to-550-percentage-by-rbi-amid-challenging-global-uncertainty-inflation/81869.html",
+     "time": "2026-10-07T12:00:00+05:30",
+     "tone": "bad"
+    }
+   ]
+  },
+  {
+   "key": "oil",
+   "icon": "🛢️",
+   "means": "Oil is India's largest import: it drives inflation, rupee and markets.",
+   "rule": "Oil > $110 → don't stop SIPs, avoid new loans. Oil < $85 → no change.",
+   "mood": "mixed",
+   "items": [
+    {
+     "title": "Oil prices decline as supply surplus expectations outweigh Gulf tanker attacks",
+     "source": "HDFC Sky",
+     "link": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-17-2026-brent-falls-0-7percent-to-91-8-wti-slips-to-85-2-as-surplus-looms",
+     "time": "2026-11-17T09:00:00+05:30",
+     "tone": "mixed"
+    }
+   ]
+  },
+  {
+   "key": "market",
+   "icon": "📈",
+   "means": "Daily market moves are noise for a 10+ year SIP investor.",
+   "rule": "Rebalance every 6 months. After a >10% fall, add 1 extra month of SIP.",
+   "mood": "good",
+   "items": [
+    {
+     "title": "Sensex, Nifty end higher as crude prices fall and FII buying rises",
+     "source": "Kotak Neo",
+     "link": "https://www.kotakneo.com/news/market-news/sensex-nifty-end-higher-as-crude-prices-fall-and-fii-buying-rises",
+     "time": "2026-11-17T16:00:00+05:30",
+     "tone": "good"
+    }
+   ]
+  },
+  {
+   "key": "ipo",
+   "icon": "🚀",
+   "means": "New IPOs: many are offers-for-sale by existing owners.",
+   "rule": "Max 5% of portfolio. Read the RHP; ignore GMP hype.",
+   "mood": "mixed",
+   "items": [
+    {
+     "title": "Mahanadi Coalfields leads three IPOs opening November 18–19",
+     "source": "Kotak Neo",
+     "link": "https://www.kotakneo.com/news/ipos/three-ipos-open-this-week-led-by-mahanadi-coalfields",
+     "time": "2026-11-16T08:49:00+05:30",
+     "tone": "neutral"
+    }
+   ]
+  }
+ ]
+}

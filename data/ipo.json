@@ -1,0 +1,44 @@
+{
+ "updatedAt": "2026-11-20T06:30:00+00:00",
+ "updatedIST": "20 Nov 2026 (starter data — the IPO agent refreshes this)",
+ "seed": true,
+ "ipos": [
+  {
+   "name": "Mahanadi Coalfields",
+   "symbol": "MCL",
+   "status": "open",
+   "sme": false,
+   "open": "19-Nov-2026",
+   "close": "23-Nov-2026",
+   "listing": "27 Nov 2026",
+   "price_low": 129,
+   "price_high": 136,
+   "lot": 110,
+   "min_amount": 14960,
+   "size_cr": 8981.12,
+   "ofs_pct": 100,
+   "psu": true,
+   "valuation_cr": 90010,
+   "subscription": null,
+   "source": "news (starter)",
+   "note": "Coal India subsidiary. Entire issue is an offer for sale by Coal India (~10% stake). Valuation ≈ ₹90,000 cr at ₹136.",
+   "headlines": [
+    {
+     "title": "Mahanadi Coalfields IPO sets ₹129-136 price band for ₹8,981 crore offer opening on 19 November",
+     "link": "https://www.kotakneo.com/news/ipos/mahanadi-coalfields-ipo-price-band/",
+     "when": "16 Nov"
+    }
+   ],
+   "score": 40,
+   "verdict": "SKIP",
+   "reasons": [
+    "100% offer-for-sale: the company gets no new money; existing owners are selling",
+    "very large issue: listing pop usually smaller",
+    "bidding not started / no subscription data yet — the strongest signal is missing",
+    "government-owned: steady dividends usually, slower growth"
+   ],
+   "guess": "unknown until bids come in"
+  }
+ ],
+ "note": "Rule-based first look. Listing guesses are rough ranges from subscription history, not predictions."
+}

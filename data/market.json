@@ -1,0 +1,58 @@
+{
+ "updatedAt": "2026-11-17T12:00:00+00:00",
+ "updatedIST": "17 Nov 2026 (starter data — agents replace this within an hour)",
+ "premium": 1.09,
+ "seed": true,
+ "market": {
+  "nifty": {
+   "last": 25498.35,
+   "prev": 25291.1,
+   "chgPct": 0.82,
+   "high52": 26340,
+   "low52": 23700,
+   "offHighPct": -3.2
+  },
+  "sensex": {
+   "last": 82876.47,
+   "prev": 82104.79,
+   "chgPct": 0.94,
+   "high52": 86000,
+   "low52": 77500,
+   "offHighPct": -3.6
+  },
+  "gold": {
+   "last": 134418,
+   "prev": 134380,
+   "chgPct": 0.03,
+   "high52": 157611,
+   "low52": 122000,
+   "offHighPct": -14.7
+  },
+  "silver": {
+   "last": 169163,
+   "prev": 167870,
+   "chgPct": 0.77,
+   "high52": 282462,
+   "low52": 150000,
+   "offHighPct": -40.1
+  },
+  "brent": {
+   "last": 92.67,
+   "prev": 92.0,
+   "chgPct": 0.73,
+   "high52": 109,
+   "low52": 62,
+   "offHighPct": -15
+  },
+  "usdinr": {
+   "last": 94.16,
+   "prev": 93.94,
+   "chgPct": 0.23,
+   "high52": 95.97,
+   "low52": 88,
+   "offHighPct": -1.9
+  }
+ },
+ "alerts": [],
+ "note": "Starter snapshot from news reports dated 12–17 Nov 2026."
+}

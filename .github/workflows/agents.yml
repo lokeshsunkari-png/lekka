@@ -1,0 +1,42 @@
+name: Lekka agents
+
+# Free on GitHub (public repo). Your phone just reads the JSON files these agents write.
+on:
+  schedule:
+    - cron: "*/10 3-10 * * 1-5"   # every 10 min, Mon–Fri 08:30–16:30 IST (market hours)
+    - cron: "23 * * * *"          # hourly the rest of the time
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lekka-agents
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      GOLD_PREMIUM: "1.09"        # India import duty + GST factor
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Market agent (every run)
+        run: python agents/market_agent.py
+      - name: IPO agent (every run)
+        run: python agents/ipo_agent.py || true
+      - name: News & geopolitics agent (every 3rd run, or manual)
+        if: github.event_name == 'workflow_dispatch' || github.run_number % 3 == 0
+        run: python agents/news_agent.py || true
+      - name: Save results
+        run: |
+          git config user.name  "lekka-agent"
+          git config user.email "lekka-agent@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "agents: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -q || true
+          git push
