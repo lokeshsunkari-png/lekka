@@ -30,8 +30,10 @@ jobs:
       - name: IPO agent (every run)
         run: python agents/ipo_agent.py || true
       - name: News & geopolitics agent (every 3rd run, or manual)
-        if: github.event_name == 'workflow_dispatch' || github.run_number % 3 == 0
-        run: python agents/news_agent.py || true
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ $(( ${{ github.run_number }} % 3 )) -eq 0 ]; then
+            python agents/news_agent.py || true
+          fi
       - name: Save results
         run: |
           git config user.name  "lekka-agent"
