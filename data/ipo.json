@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-20T09:03:08+00:00",
- "updatedIST": "20 Nov 2026, 02:33 PM IST",
+ "updatedAt": "2026-11-20T17:43:55+00:00",
+ "updatedIST": "20 Nov 2026, 11:13 PM IST",
  "ipos": [
   {
    "name": "Vigor Plast India",
@@ -41,25 +41,6 @@
    "guess": "unknown until bids come in"
   },
   {
-   "name": "Hindustan Coca Cola",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Hindustan Coca Cola IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14RGtGY21tRTNJb3BYQklhX2RXejZudXlaanRVYkVoX3k3RmFXTUNLRUJBYkJudUY4WFNVeXVNWGF1TFdsdmpwaF8tdmo3aGJFOGNOS1pyVl96OVpWdjYzbjl3?oc=5",
-     "when": "15 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
    "name": "Foodlink F&B Holdings",
    "status": "upcoming",
    "sme": false,
@@ -79,15 +60,58 @@
    "guess": "unknown until bids come in"
   },
   {
-   "name": "JSW Cement",
+   "name": "Hindustan Coca Cola",
    "status": "upcoming",
    "sme": false,
    "source": "news",
    "headlines": [
     {
-     "title": "JSW Cement IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtX2Rkdmdjc1VNYjVnXzVubDFyQm1PRElvV3g0X2tVZE5ncWEyVG1hZ3pEaEJBZWJLZjUxaUcybG9xZUppN1NpUlBKOEpaZTVMRVNPOVVR?oc=5",
-     "when": "19 Nov"
+     "title": "Hindustan Coca Cola IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14RGtGY21tRTNJb3BYQklhX2RXejZudXlaanRVYkVoX3k3RmFXTUNLRUJBYkJudUY4WFNVeXVNWGF1TFdsdmpwaF8tdmo3aGJFOGNOS1pyVl96OVpWdjYzbjl3?oc=5",
+     "when": "15 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Crystal Crop Protection",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Crystal Crop Protection IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03N1RIcE9ySVlhZ0c0bzZaSGZ4dDRYQW5FcXJtb3Zwc2NwSkZmX2Y1RmpHMXdnc2tYNnRpajZPQWhobEkxNllPV0hQNjRpdUVzWFBicm1XdkNtOUpWM1VHem9CZHVQWFU?oc=5",
+     "when": "18 Nov"
+    },
+    {
+     "title": "Crystal Crop Protection IPO GMP Today with Trend - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXbWg2RENBd1lnNFJvbDVDb1I2b1dtbzVYTkxncENYSGRJVjdNSDhUUEZzTk1rYzg5V01SYnBuVktUbDBVZUoteThhSzlSYzlzaExYXzVzNXl1cFVEaDQ3dFp3?oc=5",
+     "when": "18 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Hindustan Coca-Cola Holdings",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Hindustan Coca-Cola Holdings IPO: DRHP, Issue Size & Review - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYWXBPSHFWS21pY19Gby1wR0QxMm5sMFJWVlBrQTJrRzlXMkFXYldxM3JtNWNzVTNsRTZzUERqTUIzVDJvSkFpRThqLTRmUmhhOXUyellpMEc1UzhaVnhGRGZ0ejF1NkdIZWljLWpuMm5pNXUy?oc=5",
+     "when": "15 Nov"
     }
    ],
    "score": 50,
@@ -106,16 +130,11 @@
     {
      "title": "Mahanadi Coalfields IPO Subscription Status - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nU18wMS1pdzRWT2RfZWZoaGdRY3l6OHMtVnFNLXZ6alY0SlNMc3A3eVJETWVmLWEyRjRSX01DR28zZ3NmaW9HcUE4NTFJNGFteXpkNFUxNDVKaVpYbnk4TFZTQU1BTGY0UlRTUExtOGpvUQ?oc=5",
-     "when": "20 Nov"
+     "when": "19 Nov"
     },
     {
-     "title": "Mahanadi Coalfields IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jSlk4RWJCNHNVZ0hOM1E0d2VSb3kxbnJjeXVQR2R6Y0UwVDYyU3dCZ29ORzN3M3lrVHZrQ05KX1RXVmE0M0djTjVyTm5nTmYwdzJpTkpWdnJBYkdtemlWWXV3?oc=5",
-     "when": "20 Nov"
-    },
-    {
-     "title": "Mahanadi Coalfields IPO GMP Today with Trend - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FRGJZS1VUVEtreG1KQk8wZGYxX2U0eEk3QzVIMzhUTGZlM2VUZ21LaUNidDBfMWJtazZ1MGN4bFJZWUdMaklfTVk5ZWxWczdDQmR5UWZEOVB4WlJC?oc=5",
+     "title": "Mahanadi Coalfields IPO GMP, Date, Price Band & Review - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyeUpJVk5id2UxeXNsMzZSeW9RSWM2cW5DbHYzY2txUXo4WWpYbEUySkJPRk9Pd1JnVm1IVldrZHBheHM4anQxUHNfN3F4MElESVVzNXZrSE00Yl9fMTg4V2pwOUxONEsz?oc=5",
      "when": "20 Nov"
     }
    ],
