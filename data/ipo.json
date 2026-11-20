@@ -1,39 +1,135 @@
 {
- "updatedAt": "2026-11-20T06:30:00+00:00",
- "updatedIST": "20 Nov 2026 (starter data — the IPO agent refreshes this)",
- "seed": true,
+ "updatedAt": "2026-11-20T09:03:08+00:00",
+ "updatedIST": "20 Nov 2026, 02:33 PM IST",
  "ipos": [
   {
-   "name": "Mahanadi Coalfields",
-   "symbol": "MCL",
-   "status": "open",
+   "name": "Vigor Plast India",
+   "status": "upcoming",
    "sme": false,
-   "open": "19-Nov-2026",
-   "close": "23-Nov-2026",
-   "listing": "27 Nov 2026",
-   "price_low": 129,
-   "price_high": 136,
-   "lot": 110,
-   "min_amount": 14960,
-   "size_cr": 8981.12,
-   "ofs_pct": 100,
-   "psu": true,
-   "valuation_cr": 90010,
-   "subscription": null,
-   "source": "news (starter)",
-   "note": "Coal India subsidiary. Entire issue is an offer for sale by Coal India (~10% stake). Valuation ≈ ₹90,000 cr at ₹136.",
+   "source": "news",
    "headlines": [
     {
-     "title": "Mahanadi Coalfields IPO sets ₹129-136 price band for ₹8,981 crore offer opening on 19 November",
-     "link": "https://www.kotakneo.com/news/ipos/mahanadi-coalfields-ipo-price-band/",
-     "when": "16 Nov"
+     "title": "Vigor Plast India IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5selJVVDV3b1l2cW9FUGkxVEd2b0hpSWZOcVZoOVY2ZGhVaUdRZ1Nma0pUV21lbkxydzBFQm9uaFJseEVoUDVFckFEWHY4b1RHczc0M1RpaXhJeWNiT2ln?oc=5",
+     "when": "19 Nov"
     }
    ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Nephrocare Health Services",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Nephrocare Health Services IPO Details - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91T2ozRThSSzQ0LS1NTVVabXNPOFB3LUlvR293UVl5bEhlbk1qam80VkgydWZWQTE0X2dxYlZjNmRRUGEwTzlDZjZZSzNIWENQSUhNbGROQkx5OFRGRGs1eF9ubXMwWEhSOXNj?oc=5",
+     "when": "17 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Hindustan Coca Cola",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Hindustan Coca Cola IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14RGtGY21tRTNJb3BYQklhX2RXejZudXlaanRVYkVoX3k3RmFXTUNLRUJBYkJudUY4WFNVeXVNWGF1TFdsdmpwaF8tdmo3aGJFOGNOS1pyVl96OVpWdjYzbjl3?oc=5",
+     "when": "15 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Foodlink F&B Holdings",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Foodlink F&B Holdings IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lalE2aEc4a3VTcG1xOXFVemRYazJhWXBXbzBYTGVGSjNGMmJzbGt5V2FQMldfOE0wdjVFTzJqUnRlZ3RldWdQbnFMRHpsbTZUVWZmMnNaNDlDVWhkQ2l6dlRwOA?oc=5",
+     "when": "20 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "JSW Cement",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "JSW Cement IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtX2Rkdmdjc1VNYjVnXzVubDFyQm1PRElvV3g0X2tVZE5ncWEyVG1hZ3pEaEJBZWJLZjUxaUcybG9xZUppN1NpUlBKOEpaZTVMRVNPOVVR?oc=5",
+     "when": "19 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Mahanadi Coalfields",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Mahanadi Coalfields IPO Subscription Status - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nU18wMS1pdzRWT2RfZWZoaGdRY3l6OHMtVnFNLXZ6alY0SlNMc3A3eVJETWVmLWEyRjRSX01DR28zZ3NmaW9HcUE4NTFJNGFteXpkNFUxNDVKaVpYbnk4TFZTQU1BTGY0UlRTUExtOGpvUQ?oc=5",
+     "when": "20 Nov"
+    },
+    {
+     "title": "Mahanadi Coalfields IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jSlk4RWJCNHNVZ0hOM1E0d2VSb3kxbnJjeXVQR2R6Y0UwVDYyU3dCZ29ORzN3M3lrVHZrQ05KX1RXVmE0M0djTjVyTm5nTmYwdzJpTkpWdnJBYkdtemlWWXV3?oc=5",
+     "when": "20 Nov"
+    },
+    {
+     "title": "Mahanadi Coalfields IPO GMP Today with Trend - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FRGJZS1VUVEtreG1KQk8wZGYxX2U0eEk3QzVIMzhUTGZlM2VUZ21LaUNidDBfMWJtazZ1MGN4bFJZWUdMaklfTVk5ZWxWczdDQmR5UWZEOVB4WlJC?oc=5",
+     "when": "20 Nov"
+    }
+   ],
+   "ofs_pct": 100,
+   "psu": true,
+   "lot": 110,
+   "min_amount": 14960,
+   "listing": "27 Nov 2026",
+   "valuation_cr": 90010,
+   "note": "Coal India subsidiary. Entire issue is an offer for sale by Coal India (~10% stake). Valuation ≈ ₹90,000 cr at ₹136.",
    "score": 40,
    "verdict": "SKIP",
    "reasons": [
     "100% offer-for-sale: the company gets no new money; existing owners are selling",
-    "very large issue: listing pop usually smaller",
     "bidding not started / no subscription data yet — the strongest signal is missing",
     "government-owned: steady dividends usually, slower growth"
    ],
