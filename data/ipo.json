@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-21T00:04:13+00:00",
- "updatedIST": "21 Nov 2026, 05:34 AM IST",
+ "updatedAt": "2026-11-21T07:29:07+00:00",
+ "updatedIST": "21 Nov 2026, 12:59 PM IST",
  "ipos": [
   {
    "name": "Foodlink F&B Holdings",
@@ -49,7 +49,7 @@
     {
      "title": "Integris Medtech IPO Date, Price Band, Issue Size - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5",
-     "when": "20 Nov"
+     "when": "21 Nov"
     }
    ],
    "score": 50,
@@ -84,25 +84,6 @@
    "guess": "unknown until bids come in"
   },
   {
-   "name": "Hindustan Coca-Cola Holdings",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Hindustan Coca-Cola Holdings IPO: DRHP, Issue Size & Review - IndiaIPO",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYWXBPSHFWS21pY19Gby1wR0QxMm5sMFJWVlBrQTJrRzlXMkFXYldxM3JtNWNzVTNsRTZzUERqTUIzVDJvSkFpRThqLTRmUmhhOXUyellpMEc1UzhaVnhGRGZ0ejF1NkdIZWljLWpuMm5pNXUy?oc=5",
-     "when": "15 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
    "name": "Mahanadi Coalfields",
    "status": "upcoming",
    "sme": false,
@@ -111,6 +92,11 @@
     {
      "title": "Mahanadi Coalfields IPO Subscription Status - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nU18wMS1pdzRWT2RfZWZoaGdRY3l6OHMtVnFNLXZ6alY0SlNMc3A3eVJETWVmLWEyRjRSX01DR28zZ3NmaW9HcUE4NTFJNGFteXpkNFUxNDVKaVpYbnk4TFZTQU1BTGY0UlRTUExtOGpvUQ?oc=5",
+     "when": "19 Nov"
+    },
+    {
+     "title": "Mahanadi Coalfields IPO GMP Today with Trend - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FRGJZS1VUVEtreG1KQk8wZGYxX2U0eEk3QzVIMzhUTGZlM2VUZ21LaUNidDBfMWJtazZ1MGN4bFJZWUdMaklfTVk5ZWxWczdDQmR5UWZEOVB4WlJC?oc=5",
      "when": "19 Nov"
     },
     {
