@@ -1,45 +1,7 @@
 {
- "updatedAt": "2026-11-20T17:54:53+00:00",
- "updatedIST": "20 Nov 2026, 11:24 PM IST",
+ "updatedAt": "2026-11-21T00:04:13+00:00",
+ "updatedIST": "21 Nov 2026, 05:34 AM IST",
  "ipos": [
-  {
-   "name": "Vigor Plast India",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Vigor Plast India IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5selJVVDV3b1l2cW9FUGkxVEd2b0hpSWZOcVZoOVY2ZGhVaUdRZ1Nma0pUV21lbkxydzBFQm9uaFJseEVoUDVFckFEWHY4b1RHczc0M1RpaXhJeWNiT2ln?oc=5",
-     "when": "19 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
-   "name": "Integris Medtech",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Integris Medtech IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5",
-     "when": "20 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
   {
    "name": "Foodlink F&B Holdings",
    "status": "upcoming",
@@ -49,7 +11,7 @@
     {
      "title": "Foodlink F&B Holdings IPO Date, Price Band, Issue Size - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lalE2aEc4a3VTcG1xOXFVemRYazJhWXBXbzBYTGVGSjNGMmJzbGt5V2FQMldfOE0wdjVFTzJqUnRlZ3RldWdQbnFMRHpsbTZUVWZmMnNaNDlDVWhkQ2l6dlRwOA?oc=5",
-     "when": "20 Nov"
+     "when": "21 Nov"
     }
    ],
    "score": 50,
@@ -69,6 +31,25 @@
      "title": "Hindustan Coca Cola IPO Date, Price Band, Issue Size - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14RGtGY21tRTNJb3BYQklhX2RXejZudXlaanRVYkVoX3k3RmFXTUNLRUJBYkJudUY4WFNVeXVNWGF1TFdsdmpwaF8tdmo3aGJFOGNOS1pyVl96OVpWdjYzbjl3?oc=5",
      "when": "15 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Integris Medtech",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Integris Medtech IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5",
+     "when": "20 Nov"
     }
    ],
    "score": 50,

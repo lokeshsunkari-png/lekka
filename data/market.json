@@ -1,43 +1,43 @@
 {
- "updatedAt": "2026-11-20T17:54:53+00:00",
- "updatedIST": "20 Nov 2026, 11:24 PM IST",
+ "updatedAt": "2026-11-21T00:04:12+00:00",
+ "updatedIST": "21 Nov 2026, 05:34 AM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
    "last": 25800.6,
-   "prev": 25514.3,
-   "chgPct": 1.12,
+   "prev": 25227.95,
+   "chgPct": 2.27,
    "high52": 26328.55,
    "low52": 22231.8,
    "offHighPct": -2.01,
-   "chg30Pct": 13.1
+   "chg30Pct": 12.72
   },
   "sensex": {
    "last": 83919.71,
-   "prev": 83021.75,
-   "chgPct": 1.08,
+   "prev": 82031.81,
+   "chgPct": 2.3,
    "high52": 85762.01,
    "low52": 71593.24,
    "offHighPct": -2.15,
-   "chg30Pct": 13.85
+   "chg30Pct": 13.63
   },
   "vix": {
    "last": 17.32,
-   "prev": 16.11,
-   "chgPct": 7.51,
+   "prev": 15.57,
+   "chgPct": 11.24,
    "high52": 27.89,
    "low52": 9.15,
    "offHighPct": -37.9,
-   "chg30Pct": 10.46
+   "chg30Pct": 17.26
   },
   "brent": {
-   "last": 89.07,
+   "last": 89.87,
    "prev": 91.98,
-   "chgPct": -3.16,
+   "chgPct": -2.29,
    "high52": 118.35,
    "low52": 58.92,
-   "offHighPct": -24.74,
-   "chg30Pct": -21.3
+   "offHighPct": -24.06,
+   "chg30Pct": -20.59
   },
   "usdinr": {
    "last": 92.66,
@@ -49,35 +49,41 @@
    "chg30Pct": -1.75
   },
   "gold": {
-   "last": 114574.34,
+   "last": 114918.54,
    "prev": 119675.69,
-   "chgPct": -4.26,
+   "chgPct": -3.98,
    "high52": 172699.28,
-   "low52": 114574.33,
-   "offHighPct": -33.66,
-   "chg30Pct": -13.1,
-   "usdOz": 3528.4
+   "low52": 114918.54,
+   "offHighPct": -33.46,
+   "chg30Pct": -12.84,
+   "usdOz": 3539.0
   },
   "silver": {
-   "last": 132956.76,
+   "last": 133395.13,
    "prev": 143909.58,
-   "chgPct": -7.61,
+   "chgPct": -7.31,
    "high52": 373688.21,
-   "low52": 132956.75,
-   "offHighPct": -64.42,
-   "chg30Pct": -25.23,
-   "usdOz": 40.95
+   "low52": 133395.13,
+   "offHighPct": -64.3,
+   "chg30Pct": -24.99,
+   "usdOz": 41.08
   }
  },
  "alerts": [
   {
-   "id": "gold-move-20261120",
+   "id": "nifty-jump-20261121",
    "level": "tip",
-   "title": "Gold fell 4.3% today",
+   "title": "Nifty up 2.3% today",
+   "body": "Don't chase. Stick to the monthly SIP."
+  },
+  {
+   "id": "gold-move-20261121",
+   "level": "tip",
+   "title": "Gold fell 4.0% today",
    "body": "Keep buying only your monthly gold SIP. No lumpsum."
   },
   {
-   "id": "inr-move-20261120",
+   "id": "inr-move-20261121",
    "level": "warn",
    "title": "Rupee moved -0.9% vs USD (₹92.66)",
    "body": "Imported items (phones, electronics) price changes follow. Your gold/silver SIP is the rupee hedge."
