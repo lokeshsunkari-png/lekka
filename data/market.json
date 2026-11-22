@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T02:24:27+00:00",
- "updatedIST": "22 Nov 2026, 07:54 AM IST",
+ "updatedAt": "2026-11-22T11:44:16+00:00",
+ "updatedIST": "22 Nov 2026, 05:14 PM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
@@ -63,7 +63,7 @@
    "prev": 143925.11,
    "chgPct": -7.33,
    "high52": 373728.54,
-   "low52": 133263.38,
+   "low52": 133377.05,
    "offHighPct": -64.31,
    "chg30Pct": -25.01,
    "usdOz": 41.07
