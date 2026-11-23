@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T11:25:20+00:00",
- "updatedIST": "23 Nov 2026, 04:55 PM IST",
+ "updatedAt": "2026-11-23T21:34:34+00:00",
+ "updatedIST": "24 Nov 2026, 03:04 AM IST",
  "ipos": [
   {
    "name": "Stallion India Fluorochemicals",
@@ -41,6 +41,30 @@
    "guess": "unknown until bids come in"
   },
   {
+   "name": "Crystal Crop Protection",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Crystal Crop Protection IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03N1RIcE9ySVlhZ0c0bzZaSGZ4dDRYQW5FcXJtb3Zwc2NwSkZmX2Y1RmpHMXdnc2tYNnRpajZPQWhobEkxNllPV0hQNjRpdUVzWFBicm1XdkNtOUpWM1VHem9CZHVQWFU?oc=5",
+     "when": "18 Nov"
+    },
+    {
+     "title": "Crystal Crop Protection IPO GMP Today with Trend - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXbWg2RENBd1lnNFJvbDVDb1I2b1dtbzVYTkxncENYSGRJVjdNSDhUUEZzTk1rYzg5V01SYnBuVktUbDBVZUoteThhSzlSYzlzaExYXzVzNXl1cFVEaDQ3dFp3?oc=5",
+     "when": "18 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
    "name": "Foodlink F&B Holdings",
    "status": "upcoming",
    "sme": false,
@@ -55,25 +79,6 @@
      "title": "Foodlink F&B Holdings IPO GMP, Date, Price Band & Review - IndiaIPO",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GMERPd0VpZndKbDJNa0xhZFA4VDdtTzNDMlJvSlYzalJaN1BVc3I2R0praE01N0hZdEVGNTNtZTNjaDF3TTlsU0E1ZF9JelhUcU4xUzlPRjh3MWNRRGw2Yy02ZzV0UVBhYXFR?oc=5",
      "when": "23 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
-   "name": "Crystal Crop Protection",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Crystal Crop Protection IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03N1RIcE9ySVlhZ0c0bzZaSGZ4dDRYQW5FcXJtb3Zwc2NwSkZmX2Y1RmpHMXdnc2tYNnRpajZPQWhobEkxNllPV0hQNjRpdUVzWFBicm1XdkNtOUpWM1VHem9CZHVQWFU?oc=5",
-     "when": "18 Nov"
     }
    ],
    "score": 50,
