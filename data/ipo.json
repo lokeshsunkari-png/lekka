@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-23T09:18:05+00:00",
- "updatedIST": "23 Nov 2026, 02:48 PM IST",
+ "updatedAt": "2026-11-23T11:25:20+00:00",
+ "updatedIST": "23 Nov 2026, 04:55 PM IST",
  "ipos": [
   {
    "name": "Stallion India Fluorochemicals",
@@ -52,8 +52,8 @@
      "when": "17 Nov"
     },
     {
-     "title": "Foodlink F&B Holdings IPO GMP Today with Trend - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yc3g2MzhQY1pKQWtaNXVOQzlqZlBiZ1V0MUxnUWFseU9fVkcwYkNBTUt2Zzlham56QlBHSlRnOEV6WUNtdTBJMXVJOTlOclFOM196eGFwMHhLSFBQdUE?oc=5",
+     "title": "Foodlink F&B Holdings IPO GMP, Date, Price Band & Review - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GMERPd0VpZndKbDJNa0xhZFA4VDdtTzNDMlJvSlYzalJaN1BVc3I2R0praE01N0hZdEVGNTNtZTNjaDF3TTlsU0E1ZF9JelhUcU4xUzlPRjh3MWNRRGw2Yy02ZzV0UVBhYXFR?oc=5",
      "when": "23 Nov"
     }
    ],
@@ -74,11 +74,25 @@
      "title": "Crystal Crop Protection IPO Date, Price Band, Issue Size - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03N1RIcE9ySVlhZ0c0bzZaSGZ4dDRYQW5FcXJtb3Zwc2NwSkZmX2Y1RmpHMXdnc2tYNnRpajZPQWhobEkxNllPV0hQNjRpdUVzWFBicm1XdkNtOUpWM1VHem9CZHVQWFU?oc=5",
      "when": "18 Nov"
-    },
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Integris Medtech",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
     {
-     "title": "Crystal Crop Protection IPO GMP Today with Trend - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXbWg2RENBd1lnNFJvbDVDb1I2b1dtbzVYTkxncENYSGRJVjdNSDhUUEZzTk1rYzg5V01SYnBuVktUbDBVZUoteThhSzlSYzlzaExYXzVzNXl1cFVEaDQ3dFp3?oc=5",
-     "when": "20 Nov"
+     "title": "Integris Medtech IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5",
+     "when": "23 Nov"
     }
    ],
    "score": 50,
@@ -95,13 +109,13 @@
    "source": "news",
    "headlines": [
     {
-     "title": "Mahanadi Coalfields IPO Subscription Status - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nU18wMS1pdzRWT2RfZWZoaGdRY3l6OHMtVnFNLXZ6alY0SlNMc3A3eVJETWVmLWEyRjRSX01DR28zZ3NmaW9HcUE4NTFJNGFteXpkNFUxNDVKaVpYbnk4TFZTQU1BTGY0UlRTUExtOGpvUQ?oc=5",
+     "title": "Mahanadi Coalfields IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jSlk4RWJCNHNVZ0hOM1E0d2VSb3kxbnJjeXVQR2R6Y0UwVDYyU3dCZ29ORzN3M3lrVHZrQ05KX1RXVmE0M0djTjVyTm5nTmYwdzJpTkpWdnJBYkdtemlWWXV3?oc=5",
      "when": "19 Nov"
     },
     {
-     "title": "Mahanadi Coalfields IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jSlk4RWJCNHNVZ0hOM1E0d2VSb3kxbnJjeXVQR2R6Y0UwVDYyU3dCZ29ORzN3M3lrVHZrQ05KX1RXVmE0M0djTjVyTm5nTmYwdzJpTkpWdnJBYkdtemlWWXV3?oc=5",
+     "title": "Mahanadi Coalfields IPO Subscription Status - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nU18wMS1pdzRWT2RfZWZoaGdRY3l6OHMtVnFNLXZ6alY0SlNMc3A3eVJETWVmLWEyRjRSX01DR28zZ3NmaW9HcUE4NTFJNGFteXpkNFUxNDVKaVpYbnk4TFZTQU1BTGY0UlRTUExtOGpvUQ?oc=5",
      "when": "19 Nov"
     },
     {
