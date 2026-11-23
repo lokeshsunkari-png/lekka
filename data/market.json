@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-22T19:52:55+00:00",
- "updatedIST": "23 Nov 2026, 01:22 AM IST",
+ "updatedAt": "2026-11-23T00:59:44+00:00",
+ "updatedIST": "23 Nov 2026, 06:29 AM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
@@ -31,51 +31,44 @@
    "chg30Pct": 10.46
   },
   "brent": {
-   "last": 89.95,
-   "prev": 91.98,
-   "chgPct": -2.21,
+   "last": 89.29,
+   "prev": 92.57,
+   "chgPct": -3.54,
    "high52": 118.35,
    "low52": 58.92,
-   "offHighPct": -24.0,
-   "chg30Pct": -20.52
+   "offHighPct": -24.55,
+   "chg30Pct": -23.5
   },
   "usdinr": {
    "last": 92.66,
    "prev": 93.29,
    "chgPct": -0.68,
    "high52": 96.88,
-   "low52": 88.49,
+   "low52": 89.15,
    "offHighPct": -4.35,
    "chg30Pct": -2.17
   },
   "gold": {
-   "last": 114152.2,
-   "prev": 119675.69,
-   "chgPct": -4.62,
+   "last": 116110.26,
+   "prev": 114152.2,
+   "chgPct": 1.72,
    "high52": 172699.28,
    "low52": 114152.2,
-   "offHighPct": -33.9,
-   "chg30Pct": -13.42,
-   "usdOz": 3515.4
+   "offHighPct": -32.77,
+   "chg30Pct": -10.78,
+   "usdOz": 3575.7
   },
   "silver": {
-   "last": 133362.66,
-   "prev": 143909.58,
-   "chgPct": -7.33,
+   "last": 136203.96,
+   "prev": 133249.0,
+   "chgPct": 2.22,
    "high52": 373688.21,
-   "low52": 133362.65,
-   "offHighPct": -64.31,
-   "chg30Pct": -25.01,
-   "usdOz": 41.07
+   "low52": 133249.0,
+   "offHighPct": -63.55,
+   "chg30Pct": -21.91,
+   "usdOz": 41.95
   }
  },
- "alerts": [
-  {
-   "id": "gold-move-20261123",
-   "level": "tip",
-   "title": "Gold fell 4.6% today",
-   "body": "Keep buying only your monthly gold SIP. No lumpsum."
-  }
- ],
+ "alerts": [],
  "note": "Gold/silver = international price × USD/INR × India duty+GST factor (estimate). Jeweller rates differ by city and making charges."
 }
