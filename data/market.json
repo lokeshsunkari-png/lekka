@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-24T12:59:41+00:00",
- "updatedIST": "24 Nov 2026, 06:29 PM IST",
+ "updatedAt": "2026-11-24T18:00:01+00:00",
+ "updatedIST": "24 Nov 2026, 11:30 PM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
@@ -31,13 +31,13 @@
    "chg30Pct": 12.3
   },
   "brent": {
-   "last": 87.11,
+   "last": 87.93,
    "prev": 89.37,
-   "chgPct": -2.53,
+   "chgPct": -1.61,
    "high52": 118.35,
    "low52": 58.92,
-   "offHighPct": -26.4,
-   "chg30Pct": -24.78
+   "offHighPct": -25.7,
+   "chg30Pct": -24.07
   },
   "usdinr": {
    "last": 92.9,
@@ -49,24 +49,24 @@
    "chg30Pct": -2.15
   },
   "gold": {
-   "last": 118585.75,
+   "last": 116026.84,
    "prev": 118875.5,
-   "chgPct": -0.24,
+   "chgPct": -2.4,
    "high52": 173146.59,
    "low52": 114447.86,
-   "offHighPct": -31.51,
-   "chg30Pct": -9.8,
-   "usdOz": 3642.5
+   "offHighPct": -32.99,
+   "chg30Pct": -11.75,
+   "usdOz": 3563.9
   },
   "silver": {
-   "last": 138038.05,
+   "last": 132715.12,
    "prev": 140469.99,
-   "chgPct": -1.73,
+   "chgPct": -5.52,
    "high52": 374656.1,
-   "low52": 133594.13,
-   "offHighPct": -63.16,
-   "chg30Pct": -21.64,
-   "usdOz": 42.4
+   "low52": 132715.12,
+   "offHighPct": -64.58,
+   "chg30Pct": -24.66,
+   "usdOz": 40.77
   }
  },
  "alerts": [],

@@ -1,7 +1,26 @@
 {
- "updatedAt": "2026-11-24T12:59:41+00:00",
- "updatedIST": "24 Nov 2026, 06:29 PM IST",
+ "updatedAt": "2026-11-24T18:00:01+00:00",
+ "updatedIST": "24 Nov 2026, 11:30 PM IST",
  "ipos": [
+  {
+   "name": "Latest Mainboard",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Latest Mainboard IPO Listings: NSE & BSE Price Tracker - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKUEhSclpqa2xsM0xfMUF0VXg3czdUQWM2V2RubnhIZ0dUSEp5cjRFZU5TUVB4T0xTbUQ3RkNsNkJuOGJRMmo0S0h0NUtFaTlBTjlnTFdGbHZqeEdlV2h3dEg5bVo2RlJTaVdGLXMxR0xjZkMxbXlST3dQbnFjTVk?oc=5",
+     "when": "19 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
   {
    "name": "Stallion India Fluorochemicals",
    "status": "upcoming",
@@ -30,6 +49,25 @@
     {
      "title": "Monomark Engineering IPO Date, Price Band, Issue Size - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YcDhiQzVzQS0zRGpLak93RmQ4b3h6UWVEa1RHcW9RQ3hoSlBJU1lQYkpTQ2JzZnU0R2xFa1ZHMmg3OEhGV0VQcHYwNzRXQUU0aWlhYVk4OVB6MUszSEI1dF8wZw?oc=5",
+     "when": "24 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Indian Phosphate",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Indian Phosphate IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVG5PdXZXRUt5NEI1THZCaS1WdzhpTmE4b3pYREVZSVYxT2xScjNUQl83VnI4WUhBTGdjTFJTcU5OOTZrcXcwdmx1Q0VkbVJKS2RSVG5NYXpjemh1dGc?oc=5",
      "when": "24 Nov"
     }
    ],
@@ -102,7 +140,7 @@
     {
      "title": "Integris Medtech IPO Date, Price Band, Issue Size - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5",
-     "when": "24 Nov"
+     "when": "20 Nov"
     }
    ],
    "score": 50,
@@ -127,25 +165,6 @@
      "title": "Sitaram Denims IPO: DRHP, Issue Size & Review - IndiaIPO",
      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VbndOekxvTFJmVEZzclRpUjdzQzMzYi1nd2xoUTVUVjBxcHd5aGt2MlZCcXVEVGFTSjc0VXp1UUcycjFOdEQxa3Rvc1Z1bmo2MWZURC1CQjI4MlRpeTFZNnVR?oc=5",
      "when": "19 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
-   "name": "Horizon Industrial Parks",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Horizon Industrial Parks IPO Review & Recommendation - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jZWNUdi1SdUNNVUtzc2hQNzAwcGxfbGw4cnJ2VmdQM2NkVXdyWkpQT3pQZUlrTmhEWE11S1hQZUZraTRRcjJsekFvLWNZVTUxZDRDcGxhZkM4aklQMHBRRl8taFFJb2VQelU2bGhITWdEUQ?oc=5",
-     "when": "23 Nov"
     }
    ],
    "score": 50,
@@ -203,25 +222,6 @@
      "title": "IL Jin Electronics IPO GMP, Date, Price Band & Review - IndiaIPO",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MQ28wOHZjWGhxYzRJWnUwOGdMVUZONHFHMEl3aG9fQ1BfX2NlX0hYUnBzdld6ek9tY2libzdqdTNFaTJmV2Q1RHRNaFdMQ0hFc0ctMVlBMjBkQUVCVEZWRTROYW5NRVE?oc=5",
      "when": "19 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
-   "name": "Sagar Defence Engineering",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Sagar Defence Engineering IPO: DRHP, Issue Size & Review - IndiaIPO",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZWMwTmd0SnlCOEp3NGhOZFd3N3l1MlNvY0Q1SElYU3IwUWVGbWpLRUtyRmxXNFY5Q1AzUWpSNlRxREFkOVZhTDB4SXdHc1ZHeHNvaWJWck9yeW44ZUxzYm1DRGUzbzhBWkdNeXhLMzc?oc=5",
-     "when": "23 Nov"
     }
    ],
    "score": 50,
