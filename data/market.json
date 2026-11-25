@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-11-25T02:39:13+00:00",
- "updatedIST": "25 Nov 2026, 08:09 AM IST",
+ "updatedAt": "2026-11-25T11:49:51+00:00",
+ "updatedIST": "25 Nov 2026, 05:19 PM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
-   "last": 25349.65,
-   "prev": 25800.6,
-   "chgPct": -1.75,
+   "last": 25819.25,
+   "prev": 25349.65,
+   "chgPct": 1.85,
    "high52": 26328.55,
    "low52": 22231.8,
-   "offHighPct": -3.72,
-   "chg30Pct": 11.73
+   "offHighPct": -1.93,
+   "chg30Pct": 14.24
   },
   "sensex": {
-   "last": 82435.99,
-   "prev": 83919.71,
-   "chgPct": -1.77,
+   "last": 83938.28,
+   "prev": 82435.99,
+   "chgPct": 1.82,
    "high52": 85762.01,
    "low52": 71593.24,
-   "offHighPct": -3.88,
-   "chg30Pct": 12.54
+   "offHighPct": -2.13,
+   "chg30Pct": 14.79
   },
   "vix": {
    "last": 17.7,
-   "prev": 17.32,
-   "chgPct": 2.18,
+   "prev": 17.7,
+   "chgPct": -0.01,
    "high52": 27.89,
    "low52": 9.15,
-   "offHighPct": -36.54,
-   "chg30Pct": 12.3
+   "offHighPct": -36.55,
+   "chg30Pct": 4.97
   },
   "brent": {
-   "last": 87.75,
+   "last": 88.17,
    "prev": 91.4,
-   "chgPct": -3.99,
+   "chgPct": -3.53,
    "high52": 118.35,
    "low52": 58.92,
-   "offHighPct": -25.86,
-   "chg30Pct": -22.95
+   "offHighPct": -25.5,
+   "chg30Pct": -22.58
   },
   "usdinr": {
-   "last": 92.9,
+   "last": 92.22,
    "prev": 92.92,
-   "chgPct": -0.02,
+   "chgPct": -0.75,
    "high52": 96.88,
    "low52": 89.15,
-   "offHighPct": -4.11,
-   "chg30Pct": -2.4
+   "offHighPct": -4.81,
+   "chg30Pct": -3.12
   },
   "gold": {
-   "last": 116030.09,
-   "prev": 115961.72,
-   "chgPct": 0.06,
-   "high52": 173146.59,
-   "low52": 114447.86,
-   "offHighPct": -32.99,
-   "chg30Pct": -12.53,
-   "usdOz": 3564.0
+   "last": 114453.64,
+   "prev": 115112.92,
+   "chgPct": -0.57,
+   "high52": 171879.21,
+   "low52": 113610.14,
+   "offHighPct": -33.41,
+   "chg30Pct": -13.08,
+   "usdOz": 3541.5
   },
   "silver": {
-   "last": 133838.3,
-   "prev": 132698.83,
-   "chgPct": 0.86,
-   "high52": 374656.1,
-   "low52": 132698.83,
-   "offHighPct": -64.28,
-   "chg30Pct": -24.28,
-   "usdOz": 41.11
+   "last": 129885.41,
+   "prev": 131727.52,
+   "chgPct": -1.4,
+   "high52": 371913.73,
+   "low52": 129885.4,
+   "offHighPct": -65.08,
+   "chg30Pct": -25.98,
+   "usdOz": 40.19
   }
  },
  "alerts": [],
