@@ -1,43 +1,43 @@
 {
- "updatedAt": "2026-11-25T13:15:35+00:00",
- "updatedIST": "25 Nov 2026, 06:45 PM IST",
+ "updatedAt": "2026-11-25T22:38:43+00:00",
+ "updatedIST": "26 Nov 2026, 04:08 AM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
    "last": 25819.25,
-   "prev": 25349.65,
-   "chgPct": 1.85,
+   "prev": 25800.6,
+   "chgPct": 0.07,
    "high52": 26328.55,
    "low52": 22231.8,
    "offHighPct": -1.93,
-   "chg30Pct": 14.24
+   "chg30Pct": 13.8
   },
   "sensex": {
    "last": 83938.28,
-   "prev": 82435.99,
-   "chgPct": 1.82,
+   "prev": 83919.71,
+   "chgPct": 0.02,
    "high52": 85762.01,
    "low52": 71593.24,
    "offHighPct": -2.13,
-   "chg30Pct": 14.79
+   "chg30Pct": 14.59
   },
   "vix": {
    "last": 17.7,
-   "prev": 17.7,
-   "chgPct": -0.01,
+   "prev": 17.32,
+   "chgPct": 2.18,
    "high52": 27.89,
    "low52": 9.15,
    "offHighPct": -36.55,
-   "chg30Pct": 4.97
+   "chg30Pct": 12.29
   },
   "brent": {
-   "last": 89.26,
+   "last": 90.82,
    "prev": 91.4,
-   "chgPct": -2.34,
+   "chgPct": -0.63,
    "high52": 118.35,
    "low52": 58.92,
-   "offHighPct": -24.58,
-   "chg30Pct": -21.62
+   "offHighPct": -23.26,
+   "chg30Pct": -20.25
   },
   "usdinr": {
    "last": 92.22,
@@ -49,24 +49,24 @@
    "chg30Pct": -3.12
   },
   "gold": {
-   "last": 114456.87,
+   "last": 116919.49,
    "prev": 115112.92,
-   "chgPct": -0.57,
+   "chgPct": 1.57,
    "high52": 171879.21,
    "low52": 113610.14,
-   "offHighPct": -33.41,
-   "chg30Pct": -13.08,
-   "usdOz": 3541.6
+   "offHighPct": -31.98,
+   "chg30Pct": -11.21,
+   "usdOz": 3617.8
   },
   "silver": {
-   "last": 129869.25,
+   "last": 134668.45,
    "prev": 131727.52,
-   "chgPct": -1.41,
+   "chgPct": 2.23,
    "high52": 371913.73,
-   "low52": 129869.25,
-   "offHighPct": -65.08,
-   "chg30Pct": -25.98,
-   "usdOz": 40.19
+   "low52": 131727.52,
+   "offHighPct": -63.79,
+   "chg30Pct": -23.25,
+   "usdOz": 41.67
   }
  },
  "alerts": [],
