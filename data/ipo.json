@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-25T11:49:51+00:00",
- "updatedIST": "25 Nov 2026, 05:19 PM IST",
+ "updatedAt": "2026-11-25T13:15:35+00:00",
+ "updatedIST": "25 Nov 2026, 06:45 PM IST",
  "ipos": [
   {
    "name": "Latest Mainboard",
@@ -30,7 +30,7 @@
     {
      "title": "Monomark Engineering IPO Date, Price Band, Issue Size - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YcDhiQzVzQS0zRGpLak93RmQ4b3h6UWVEa1RHcW9RQ3hoSlBJU1lQYkpTQ2JzZnU0R2xFa1ZHMmg3OEhGV0VQcHYwNzRXQUU0aWlhYVk4OVB6MUszSEI1dF8wZw?oc=5",
-     "when": "25 Nov"
+     "when": "23 Nov"
     }
    ],
    "score": 50,
@@ -108,6 +108,87 @@
    "guess": "unknown until bids come in"
   },
   {
+   "name": "Watrana Rentals",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Watrana Rentals IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KdlpHcFA5V0I0RV9jZWh3YS1lb05vcGxsOEVsQzFXLTFOd3liSnVkTnh2UEEwRjc2SG5RMGRPN0oxZ3VZSlhDLXNiVzJYQlZTWEViVVcxQ0NKNzVL?oc=5",
+     "when": "19 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Sitaram Denims",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Sitaram Denims IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBV1h2SXhyZG44Z1hRSlVucEFzYUR2eWt0LU85NkVVNzUzdFlSYTBvZDZidUhFcks2X0NxY3h3aU81bU5MWnRzR0pfNUI1V05uUkEtc3FVcGo1YlA5NmRYVW91YTUtRU1KU24xUTJR?oc=5",
+     "when": "19 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "SNVA Traveltech",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "SNVA Traveltech IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wb3NSU0M1RVU0RUFxNXEyOWJqVEZMdTVQYkFneTRLRUVYb2k2SEN5RXJzZ2RDLUdHVC1UOW9UeGd5bEV1aWpfYklsT1pXYUJRYWlrbzQxZDlNVWlqdkEyMEdiWTQ4cWt0YkhjS01hRQ?oc=5",
+     "when": "19 Nov"
+    },
+    {
+     "title": "SNVA Traveltech IPO: DRHP, Issue Size & Review - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zcnpRSmN2OU4xMnJfdzAxNFpGa05oVVA4clZYdVh1bVA1aGd2UjZkY0hWUzVTVFd1LVdQTFZ4VDNKZTAweEhobTdoYlY1NmRnZkdaS2FFMUp2RTd3Z0F4NDdLUQ?oc=5",
+     "when": "19 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "IL Jin Electronics",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "IL Jin Electronics IPO GMP, Date, Price Band & Review - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MQ28wOHZjWGhxYzRJWnUwOGdMVUZONHFHMEl3aG9fQ1BfX2NlX0hYUnBzdld6ek9tY2libzdqdTNFaTJmV2Q1RHRNaFdMQ0hFc0ctMVlBMjBkQUVCVEZWRTROYW5NRVE?oc=5",
+     "when": "24 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
    "name": "Sagar Defence Engineering",
    "status": "upcoming",
    "sme": false,
@@ -116,6 +197,25 @@
     {
      "title": "Sagar Defence Engineering IPO: DRHP, Issue Size & Review - IndiaIPO",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZWMwTmd0SnlCOEp3NGhOZFd3N3l1MlNvY0Q1SElYU3IwUWVGbWpLRUtyRmxXNFY5Q1AzUWpSNlRxREFkOVZhTDB4SXdHc1ZHeHNvaWJWck9yeW44ZUxzYm1DRGUzbzhBWkdNeXhLMzc?oc=5",
+     "when": "23 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Swiggy Limited",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Swiggy Limited IPO, GMP, Details, Price, And Review IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQXBpNllCRUg2d0hwS1RjVHZXWlBRWFNYZVNMb281VjlZbGJLX0N3Yk5VZFpNV00wR2JLSjJIV01HUmtvUE9lbWVNZ2d2b0VmQmRtOXVqN2ZRZXdsR2NXZ1hBOGVkQjhPQ0pGRQ?oc=5",
      "when": "23 Nov"
     }
    ],
@@ -138,8 +238,13 @@
      "when": "19 Nov"
     },
     {
-     "title": "Mahanadi Coalfields IPO GMP Today with Trend - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FRGJZS1VUVEtreG1KQk8wZGYxX2U0eEk3QzVIMzhUTGZlM2VUZ21LaUNidDBfMWJtazZ1MGN4bFJZWUdMaklfTVk5ZWxWczdDQmR5UWZEOVB4WlJC?oc=5",
+     "title": "Mahanadi Coalfields IPO Subscription Status - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nU18wMS1pdzRWT2RfZWZoaGdRY3l6OHMtVnFNLXZ6alY0SlNMc3A3eVJETWVmLWEyRjRSX01DR28zZ3NmaW9HcUE4NTFJNGFteXpkNFUxNDVKaVpYbnk4TFZTQU1BTGY0UlRTUExtOGpvUQ?oc=5",
+     "when": "19 Nov"
+    },
+    {
+     "title": "Mahanadi Coalfields IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GbHZBUnZZVWNEQk03TDNsejZ1NTJKa2UtQk8xNmNwN2s2Z3BpNWt0YVF2Tk96Q1pPOWVrSEhvQ1piaks4ZGx5cEtnSzRrSkZMMXFzVlF5NzVwNjhrUWVXUXR5VlNua19DdkxXNDlRWnR5UHBF?oc=5",
      "when": "19 Nov"
     }
    ],
