@@ -1,26 +1,7 @@
 {
- "updatedAt": "2026-11-25T22:38:44+00:00",
- "updatedIST": "26 Nov 2026, 04:08 AM IST",
+ "updatedAt": "2026-11-26T05:14:09+00:00",
+ "updatedIST": "26 Nov 2026, 10:44 AM IST",
  "ipos": [
-  {
-   "name": "Latest Mainboard",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Latest Mainboard IPO Listings: NSE & BSE Price Tracker - The Economic Times",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKUEhSclpqa2xsM0xfMUF0VXg3czdUQWM2V2RubnhIZ0dUSEp5cjRFZU5TUVB4T0xTbUQ3RkNsNkJuOGJRMmo0S0h0NUtFaTlBTjlnTFdGbHZqeEdlV2h3dEg5bVo2RlJTaVdGLXMxR0xjZkMxbXlST3dQbnFjTVk?oc=5",
-     "when": "19 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
   {
    "name": "Monomark Engineering",
    "status": "upcoming",
@@ -70,6 +51,25 @@
    "guess": "unknown until bids come in"
   },
   {
+   "name": "Airpro Technology",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Airpro Technology IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTUdodFRhU2V4cloydUk5YWE2UzJ3T1RhRzE1S1hobDlUbGlveXZvYUJTd1FuMDVDQXQzRmplQTBPZ0ZJRDlIUGVpY1ZxaDdsSHFmQ0tDSGRER0ppQUNz?oc=5",
+     "when": "25 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
    "name": "Integris Medtech",
    "status": "upcoming",
    "sme": false,
@@ -89,58 +89,15 @@
    "guess": "unknown until bids come in"
   },
   {
-   "name": "Encube Ethicals",
+   "name": "Matangi Rubber",
    "status": "upcoming",
    "sme": false,
    "source": "news",
    "headlines": [
     {
-     "title": "Encube Ethicals IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQS1dwN3Y3MW00eTJ2UjFNWGZ5dU9BSVdoSFdld3ljT1RRUFZzbmJ6WTN3YjN2d2ZVUk9tUmxrOXhxeUlVU1ZUamVILTk4LTdqU19MSmEybENKN2hy?oc=5",
-     "when": "25 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
-   "name": "Sitaram Denims",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Sitaram Denims IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBV1h2SXhyZG44Z1hRSlVucEFzYUR2eWt0LU85NkVVNzUzdFlSYTBvZDZidUhFcks2X0NxY3h3aU81bU5MWnRzR0pfNUI1V05uUkEtc3FVcGo1YlA5NmRYVW91YTUtRU1KU24xUTJR?oc=5",
-     "when": "19 Nov"
-    },
-    {
-     "title": "Sitaram Denims IPO: DRHP, Issue Size & Review - IndiaIPO",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VbndOekxvTFJmVEZzclRpUjdzQzMzYi1nd2xoUTVUVjBxcHd5aGt2MlZCcXVEVGFTSjc0VXp1UUcycjFOdEQxa3Rvc1Z1bmo2MWZURC1CQjI4MlRpeTFZNnVR?oc=5",
-     "when": "19 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
-   "name": "IL Jin Electronics",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "IL Jin Electronics IPO GMP, Date, Price Band & Review - IndiaIPO",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MQ28wOHZjWGhxYzRJWnUwOGdMVUZONHFHMEl3aG9fQ1BfX2NlX0hYUnBzdld6ek9tY2libzdqdTNFaTJmV2Q1RHRNaFdMQ0hFc0ctMVlBMjBkQUVCVEZWRTROYW5NRVE?oc=5",
-     "when": "24 Nov"
+     "title": "Matangi Rubber IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OVjk4QmxzUzYtQkozTHNaSWtzZnRqNGdZTV92aDRQRHJ4Y2hKeTVVTjllZGtNRklVZkFmOERnQjZfM0E5LVJ5QzBDalp1eF8zM3hkTGltVWVMNEdlSFY5cUNOMS1VRldzZHdJRDFn?oc=5",
+     "when": "26 Nov"
     }
    ],
    "score": 50,
