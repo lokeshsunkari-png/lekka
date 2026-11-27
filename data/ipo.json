@@ -1,55 +1,7 @@
 {
- "updatedAt": "2026-11-27T11:30:05+00:00",
- "updatedIST": "27 Nov 2026, 05:00 PM IST",
+ "updatedAt": "2026-11-27T19:33:28+00:00",
+ "updatedIST": "28 Nov 2026, 01:03 AM IST",
  "ipos": [
-  {
-   "name": "Airpro Technology",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Airpro Technology IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTUdodFRhU2V4cloydUk5YWE2UzJ3T1RhRzE1S1hobDlUbGlveXZvYUJTd1FuMDVDQXQzRmplQTBPZ0ZJRDlIUGVpY1ZxaDdsSHFmQ0tDSGRER0ppQUNz?oc=5",
-     "when": "27 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
-   "name": "Foodlink F&B Holdings",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Foodlink F&B Holdings IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lalE2aEc4a3VTcG1xOXFVemRYazJhWXBXbzBYTGVGSjNGMmJzbGt5V2FQMldfOE0wdjVFTzJqUnRlZ3RldWdQbnFMRHpsbTZUVWZmMnNaNDlDVWhkQ2l6dlRwOA?oc=5",
-     "when": "27 Nov"
-    },
-    {
-     "title": "Foodlink F&B Holdings IPO GMP Today with Trend - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yc3g2MzhQY1pKQWtaNXVOQzlqZlBiZ1V0MUxnUWFseU9fVkcwYkNBTUt2Zzlham56QlBHSlRnOEV6WUNtdTBJMXVJOTlOclFOM196eGFwMHhLSFBQdUE?oc=5",
-     "when": "27 Nov"
-    },
-    {
-     "title": "Foodlink F&B Holdings IPO: Check price band, issue size and listing date - The Financial Express",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdW4yTFlTOFRvMzZYN2NxOUVFQTFuWjYtczFfTWlGYVUwR01uZGRNQjhfTS1jZUhlUDRwQ2ppamo5M0hkMEl1Tm1xNk9IZWx6NmpTVS1saXVPWm14dDV2UGhHTXdDODlNa1R4QVE5SWhsTXNKdk13QXFGdS1pS3BQYU80SzRqTUh6T2NKcGRiVU55VmMyU1NRNlRaZU9ueWJhWHpLcFlrWFRZSlJzVjhPVUpwUlpJb2xGOGFfQVdZMUnSAccBQVVfeXFMTUxzRnJWZU9Sb2xTOGF1bFQ3MjFBZW51anFYUmwtMHVjcVF1S0c0M3Y1Q3dKMEFOX3l4WURWaUE4WHpiVFRyUExlanRTbWd5ckNRT1dYSTdoM3A1dTVDTlJPRGxhdXJVX0d1c2pHRldaeEZOVzViRUFLRklEYm9KdFB5QS1meWVmUDQ0ZUsxd1dhRF9TSDhSbnBPMTBwOEZNRktleEFhdFE4d1dvd3pBT1BNS0wzR1FNN294X1MzYlBDM2ZyWENCRQ?oc=5",
-     "when": "26 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
   {
    "name": "Encube Ethicals",
    "status": "upcoming",
@@ -70,15 +22,63 @@
    "guess": "unknown until bids come in"
   },
   {
-   "name": "Monomark Engineering",
+   "name": "Foodlink F&B Holdings",
    "status": "upcoming",
    "sme": false,
    "source": "news",
    "headlines": [
     {
-     "title": "Monomark Engineering IPO GMP Today with Trend - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRa08wTEFTb1NfS2gyQ2JPNHVfeHR4UlB6cTZTaGcwZXBHWXpjdlN6VmFZMGFFdXhDWm4tZU1jRmREakQ2am9VVi1MZzFuU2RYSWhJb1N3bHRKNFFzckE?oc=5",
-     "when": "20 Nov"
+     "title": "Foodlink F&B Holdings IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lalE2aEc4a3VTcG1xOXFVemRYazJhWXBXbzBYTGVGSjNGMmJzbGt5V2FQMldfOE0wdjVFTzJqUnRlZ3RldWdQbnFMRHpsbTZUVWZmMnNaNDlDVWhkQ2l6dlRwOA?oc=5",
+     "when": "26 Nov"
+    },
+    {
+     "title": "Foodlink F&B Holdings IPO GMP Today with Trend - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yc3g2MzhQY1pKQWtaNXVOQzlqZlBiZ1V0MUxnUWFseU9fVkcwYkNBTUt2Zzlham56QlBHSlRnOEV6WUNtdTBJMXVJOTlOclFOM196eGFwMHhLSFBQdUE?oc=5",
+     "when": "26 Nov"
+    },
+    {
+     "title": "Foodlink F&B Holdings IPO: Check price band, issue size and listing date - The Financial Express",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdW4yTFlTOFRvMzZYN2NxOUVFQTFuWjYtczFfTWlGYVUwR01uZGRNQjhfTS1jZUhlUDRwQ2ppamo5M0hkMEl1Tm1xNk9IZWx6NmpTVS1saXVPWm14dDV2UGhHTXdDODlNa1R4QVE5SWhsTXNKdk13QXFGdS1pS3BQYU80SzRqTUh6T2NKcGRiVU55VmMyU1NRNlRaZU9ueWJhWHpLcFlrWFRZSlJzVjhPVUpwUlpJb2xGOGFfQVdZMUnSAccBQVVfeXFMTUxzRnJWZU9Sb2xTOGF1bFQ3MjFBZW51anFYUmwtMHVjcVF1S0c0M3Y1Q3dKMEFOX3l4WURWaUE4WHpiVFRyUExlanRTbWd5ckNRT1dYSTdoM3A1dTVDTlJPRGxhdXJVX0d1c2pHRldaeEZOVzViRUFLRklEYm9KdFB5QS1meWVmUDQ0ZUsxd1dhRF9TSDhSbnBPMTBwOEZNRktleEFhdFE4d1dvd3pBT1BNS0wzR1FNN294X1MzYlBDM2ZyWENCRQ?oc=5",
+     "when": "26 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Airpro Technology",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Airpro Technology IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTUdodFRhU2V4cloydUk5YWE2UzJ3T1RhRzE1S1hobDlUbGlveXZvYUJTd1FuMDVDQXQzRmplQTBPZ0ZJRDlIUGVpY1ZxaDdsSHFmQ0tDSGRER0ppQUNz?oc=5",
+     "when": "28 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "Swiggy Limited",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Swiggy Limited IPO, GMP, Details, Price, And Review IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQXBpNllCRUg2d0hwS1RjVHZXWlBRWFNYZVNMb281VjlZbGJLX0N3Yk5VZFpNV00wR2JLSjJIV01HUmtvUE9lbWVNZ2d2b0VmQmRtOXVqN2ZRZXdsR2NXZ1hBOGVkQjhPQ0pGRQ?oc=5",
+     "when": "26 Nov"
     }
    ],
    "score": 50,

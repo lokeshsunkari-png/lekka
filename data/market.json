@@ -1,43 +1,43 @@
 {
- "updatedAt": "2026-11-27T11:30:04+00:00",
- "updatedIST": "27 Nov 2026, 05:00 PM IST",
+ "updatedAt": "2026-11-27T19:33:27+00:00",
+ "updatedIST": "28 Nov 2026, 01:03 AM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
    "last": 25607.2,
-   "prev": 25884.5,
-   "chgPct": -1.07,
+   "prev": 25819.25,
+   "chgPct": -0.82,
    "high52": 26328.55,
    "low52": 22231.8,
    "offHighPct": -2.74,
-   "chg30Pct": 12.56
+   "chg30Pct": 12.54
   },
   "sensex": {
    "last": 83339.26,
-   "prev": 84328.59,
-   "chgPct": -1.17,
+   "prev": 83938.28,
+   "chgPct": -0.71,
    "high52": 85762.01,
    "low52": 71593.24,
    "offHighPct": -2.82,
-   "chg30Pct": 13.23
+   "chg30Pct": 13.22
   },
   "vix": {
    "last": 16.55,
-   "prev": 16.84,
-   "chgPct": -1.75,
+   "prev": 17.67,
+   "chgPct": -6.37,
    "high52": 27.89,
    "low52": 9.15,
    "offHighPct": -40.68,
-   "chg30Pct": 0.88
+   "chg30Pct": -3.58
   },
   "brent": {
-   "last": 92.02,
+   "last": 90.59,
    "prev": 94.61,
-   "chgPct": -2.74,
+   "chgPct": -4.25,
    "high52": 118.35,
    "low52": 58.92,
-   "offHighPct": -22.25,
-   "chg30Pct": -20.2
+   "offHighPct": -23.46,
+   "chg30Pct": -21.44
   },
   "usdinr": {
    "last": 92.98,
@@ -49,35 +49,35 @@
    "chg30Pct": -2.34
   },
   "gold": {
-   "last": 120639.66,
+   "last": 119535.06,
    "prev": 115211.14,
-   "chgPct": 4.71,
+   "chgPct": 3.75,
    "high52": 173295.69,
    "low52": 114546.42,
-   "offHighPct": -30.39,
-   "chg30Pct": -8.62,
-   "usdOz": 3702.4
+   "offHighPct": -31.02,
+   "chg30Pct": -9.46,
+   "usdOz": 3668.5
   },
   "silver": {
-   "last": 145032.18,
+   "last": 142399.38,
    "prev": 130506.15,
-   "chgPct": 11.13,
+   "chgPct": 9.11,
    "high52": 374978.73,
    "low52": 130506.15,
-   "offHighPct": -61.32,
-   "chg30Pct": -16.74,
-   "usdOz": 44.51
+   "offHighPct": -62.02,
+   "chg30Pct": -18.25,
+   "usdOz": 43.7
   }
  },
  "alerts": [
   {
-   "id": "gold-move-20261127",
+   "id": "gold-move-20261128",
    "level": "warn",
-   "title": "Gold jumped 4.7% today",
+   "title": "Gold jumped 3.8% today",
    "body": "Keep buying only your monthly gold SIP. No lumpsum."
   },
   {
-   "id": "inr-move-20261127",
+   "id": "inr-move-20261128",
    "level": "warn",
    "title": "Rupee moved +0.8% vs USD (₹92.98)",
    "body": "Imported items (phones, electronics) price changes follow. Your gold/silver SIP is the rupee hedge."
