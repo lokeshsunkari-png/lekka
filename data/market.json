@@ -1,74 +1,81 @@
 {
- "updatedAt": "2026-11-26T15:30:09+00:00",
- "updatedIST": "26 Nov 2026, 09:00 PM IST",
+ "updatedAt": "2026-11-27T00:42:01+00:00",
+ "updatedIST": "27 Nov 2026, 06:12 AM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
    "last": 25884.5,
-   "prev": 25819.25,
-   "chgPct": 0.25,
+   "prev": 25349.65,
+   "chgPct": 2.11,
    "high52": 26328.55,
    "low52": 22231.8,
    "offHighPct": -1.69,
-   "chg30Pct": 13.76
+   "chg30Pct": 14.53
   },
   "sensex": {
    "last": 84328.59,
-   "prev": 83938.28,
-   "chgPct": 0.46,
+   "prev": 82435.99,
+   "chgPct": 2.3,
    "high52": 85762.01,
    "low52": 71593.24,
    "offHighPct": -1.67,
-   "chg30Pct": 14.57
+   "chg30Pct": 15.32
   },
   "vix": {
    "last": 16.84,
-   "prev": 17.67,
-   "chgPct": -4.73,
+   "prev": 17.7,
+   "chgPct": -4.89,
    "high52": 27.89,
    "low52": 9.15,
    "offHighPct": -39.64,
-   "chg30Pct": -1.89
+   "chg30Pct": -0.15
   },
   "brent": {
-   "last": 91.34,
+   "last": 91.85,
    "prev": 94.61,
-   "chgPct": -3.46,
+   "chgPct": -2.92,
    "high52": 118.35,
    "low52": 58.92,
-   "offHighPct": -22.82,
-   "chg30Pct": -20.79
+   "offHighPct": -22.39,
+   "chg30Pct": -20.35
   },
   "usdinr": {
    "last": 92.44,
    "prev": 92.81,
    "chgPct": -0.4,
    "high52": 96.88,
-   "low52": 89.15,
+   "low52": 89.16,
    "offHighPct": -4.59,
    "chg30Pct": -2.88
   },
   "gold": {
-   "last": 116706.18,
+   "last": 116408.16,
    "prev": 114535.83,
-   "chgPct": 1.89,
+   "chgPct": 1.63,
    "high52": 172279.92,
    "low52": 113875.01,
-   "offHighPct": -32.26,
-   "chg30Pct": -11.08,
-   "usdOz": 3602.8
+   "offHighPct": -32.43,
+   "chg30Pct": -11.3,
+   "usdOz": 3593.6
   },
   "silver": {
-   "last": 135662.67,
+   "last": 135257.75,
    "prev": 129741.19,
-   "chgPct": 4.56,
+   "chgPct": 4.25,
    "high52": 372780.8,
    "low52": 129741.19,
-   "offHighPct": -63.61,
-   "chg30Pct": -21.66,
-   "usdOz": 41.88
+   "offHighPct": -63.72,
+   "chg30Pct": -21.89,
+   "usdOz": 41.76
   }
  },
- "alerts": [],
+ "alerts": [
+  {
+   "id": "nifty-jump-20261127",
+   "level": "tip",
+   "title": "Nifty up 2.1% today",
+   "body": "Don't chase. Stick to the monthly SIP."
+  }
+ ],
  "note": "Gold/silver = international price × USD/INR × India duty+GST factor (estimate). Jeweller rates differ by city and making charges."
 }
