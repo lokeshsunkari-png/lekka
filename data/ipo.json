@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-11-27T00:42:01+00:00",
- "updatedIST": "27 Nov 2026, 06:12 AM IST",
+ "updatedAt": "2026-11-27T09:48:46+00:00",
+ "updatedIST": "27 Nov 2026, 03:18 PM IST",
  "ipos": [
   {
-   "name": "Monomark Engineering",
+   "name": "Airpro Technology",
    "status": "upcoming",
    "sme": false,
    "source": "news",
    "headlines": [
     {
-     "title": "Monomark Engineering IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YcDhiQzVzQS0zRGpLak93RmQ4b3h6UWVEa1RHcW9RQ3hoSlBJU1lQYkpTQ2JzZnU0R2xFa1ZHMmg3OEhGV0VQcHYwNzRXQUU0aWlhYVk4OVB6MUszSEI1dF8wZw?oc=5",
+     "title": "Airpro Technology IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTUdodFRhU2V4cloydUk5YWE2UzJ3T1RhRzE1S1hobDlUbGlveXZvYUJTd1FuMDVDQXQzRmplQTBPZ0ZJRDlIUGVpY1ZxaDdsSHFmQ0tDSGRER0ppQUNz?oc=5",
      "when": "27 Nov"
     }
    ],
@@ -51,25 +51,6 @@
    "guess": "unknown until bids come in"
   },
   {
-   "name": "Airpro Technology",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Airpro Technology IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTUdodFRhU2V4cloydUk5YWE2UzJ3T1RhRzE1S1hobDlUbGlveXZvYUJTd1FuMDVDQXQzRmplQTBPZ0ZJRDlIUGVpY1ZxaDdsSHFmQ0tDSGRER0ppQUNz?oc=5",
-     "when": "26 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
    "name": "Encube Ethicals",
    "status": "upcoming",
    "sme": false,
@@ -78,7 +59,7 @@
     {
      "title": "Encube Ethicals IPO Date, Price Band, Issue Size - IPO Watch",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQS1dwN3Y3MW00eTJ2UjFNWGZ5dU9BSVdoSFdld3ljT1RRUFZzbmJ6WTN3YjN2d2ZVUk9tUmxrOXhxeUlVU1ZUamVILTk4LTdqU19MSmEybENKN2hy?oc=5",
-     "when": "26 Nov"
+     "when": "27 Nov"
     }
    ],
    "score": 50,
@@ -89,34 +70,15 @@
    "guess": "unknown until bids come in"
   },
   {
-   "name": "Integris Medtech",
+   "name": "Monomark Engineering",
    "status": "upcoming",
    "sme": false,
    "source": "news",
    "headlines": [
     {
-     "title": "Integris Medtech IPO Date, Price Band, Issue Size - IPO Watch",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUT3plMG1nSTV5eXpsRzRPRmRYeDVqMjJMS0dPR2Via180a0ZVaG0tNGZ0SkpCc21iaWN2YXZMTWxDSWtZVGI3UE52YUo0bndMSVVULV9tUW9qNHptS3c?oc=5",
-     "when": "26 Nov"
-    }
-   ],
-   "score": 50,
-   "verdict": "OPTIONAL",
-   "reasons": [
-    "bidding not started / no subscription data yet — the strongest signal is missing"
-   ],
-   "guess": "unknown until bids come in"
-  },
-  {
-   "name": "Swiggy Limited",
-   "status": "upcoming",
-   "sme": false,
-   "source": "news",
-   "headlines": [
-    {
-     "title": "Swiggy Limited IPO, GMP, Details, Price, And Review IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQXBpNllCRUg2d0hwS1RjVHZXWlBRWFNYZVNMb281VjlZbGJLX0N3Yk5VZFpNV00wR2JLSjJIV01HUmtvUE9lbWVNZ2d2b0VmQmRtOXVqN2ZRZXdsR2NXZ1hBOGVkQjhPQ0pGRQ?oc=5",
-     "when": "26 Nov"
+     "title": "Monomark Engineering IPO GMP Today with Trend - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRa08wTEFTb1NfS2gyQ2JPNHVfeHR4UlB6cTZTaGcwZXBHWXpjdlN6VmFZMGFFdXhDWm4tZU1jRmREakQ2am9VVi1MZzFuU2RYSWhJb1N3bHRKNFFzckE?oc=5",
+     "when": "20 Nov"
     }
    ],
    "score": 50,
