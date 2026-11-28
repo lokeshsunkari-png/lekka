@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-27T19:33:28+00:00",
- "updatedIST": "28 Nov 2026, 01:03 AM IST",
+ "updatedAt": "2026-11-28T02:50:04+00:00",
+ "updatedIST": "28 Nov 2026, 08:20 AM IST",
  "ipos": [
   {
    "name": "Encube Ethicals",
@@ -51,6 +51,25 @@
    "guess": "unknown until bids come in"
   },
   {
+   "name": "R K SWAMY",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "R K SWAMY IPO Date, Price Band, Issue Size - IPO Watch",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HbHJrNjhkNmFWUkxSaEFJaG1KWVY3NUxrdXdoUkk2UFkyeHZNeW1yektRMnEwei0zRU5DcXVhTk1OLUhpSmZIcGljenBNa004NDRqYw?oc=5",
+     "when": "26 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
    "name": "Airpro Technology",
    "status": "upcoming",
    "sme": false,
@@ -70,6 +89,25 @@
    "guess": "unknown until bids come in"
   },
   {
+   "name": "Matangi Rubber",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "Matangi Rubber IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OVjk4QmxzUzYtQkozTHNaSWtzZnRqNGdZTV92aDRQRHJ4Y2hKeTVVTjllZGtNRklVZkFmOERnQjZfM0E5LVJ5QzBDalp1eF8zM3hkTGltVWVMNEdlSFY5cUNOMS1VRldzZHdJRDFn?oc=5",
+     "when": "27 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
    "name": "Swiggy Limited",
    "status": "upcoming",
    "sme": false,
@@ -79,6 +117,25 @@
      "title": "Swiggy Limited IPO, GMP, Details, Price, And Review IPO GMP Today, Expected Listing Gain & Price Band - IndiaIPO",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQXBpNllCRUg2d0hwS1RjVHZXWlBRWFNYZVNMb281VjlZbGJLX0N3Yk5VZFpNV00wR2JLSjJIV01HUmtvUE9lbWVNZ2d2b0VmQmRtOXVqN2ZRZXdsR2NXZ1hBOGVkQjhPQ0pGRQ?oc=5",
      "when": "26 Nov"
+    }
+   ],
+   "score": 50,
+   "verdict": "OPTIONAL",
+   "reasons": [
+    "bidding not started / no subscription data yet — the strongest signal is missing"
+   ],
+   "guess": "unknown until bids come in"
+  },
+  {
+   "name": "IL Jin Electronics",
+   "status": "upcoming",
+   "sme": false,
+   "source": "news",
+   "headlines": [
+    {
+     "title": "IL Jin Electronics IPO GMP, Date, Price Band & Review - IndiaIPO",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MQ28wOHZjWGhxYzRJWnUwOGdMVUZONHFHMEl3aG9fQ1BfX2NlX0hYUnBzdld6ek9tY2libzdqdTNFaTJmV2Q1RHRNaFdMQ0hFc0ctMVlBMjBkQUVCVEZWRTROYW5NRVE?oc=5",
+     "when": "24 Nov"
     }
    ],
    "score": 50,

@@ -1,19 +1,19 @@
 {
- "updatedAt": "2026-11-27T09:48:49+00:00",
- "updatedIST": "27 Nov 2026, 03:18 PM IST",
+ "updatedAt": "2026-11-28T02:50:07+00:00",
+ "updatedIST": "28 Nov 2026, 08:20 AM IST",
  "topics": [
   {
    "key": "rbi",
    "icon": "🏦",
    "means": "RBI decisions change FD, loan and bond-fund returns.",
    "rule": "Rates rising → keep debt short (FD ladder, short-duration fund). Rates cut → longer-duration debt becomes attractive.",
-   "mood": "mixed",
+   "mood": "bad",
    "items": [
     {
-     "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
-     "source": "News On AIR",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-     "time": "2026-11-27T06:05:04+05:30",
+     "title": "RBI keeps repo rate unchanged at 5.25%; retains neutral stance amid global uncertainties",
+     "source": "DD News",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNExxbHBZVzRPZUp1S0xUYlBITlhGNUhrM3g3cEJoakJaSTFfZjY3dlY3ZGlpN283YVFXR21WcENFUWRaMzVTVmoza3NmS1ZJWVVvY3ViMEdLRFlBVmdYbXYyb1lqNjhZXzloZXkxaDFPb1QxUXQ5SXlYQWZ1RHNXdV9fcDh4UG1LWWx2aHlBbzlUa2FYUzZrbUJYbHU5WUw4T19CSE15blRYaUgwLW5MNzFn?oc=5",
+     "time": "2026-11-28T00:12:41+05:30",
      "tone": "neutral"
     },
     {
@@ -24,24 +24,24 @@
      "tone": "bad"
     },
     {
-     "title": "Nomura now sees India’s RBI hiking by 50 basis points in December",
-     "source": "Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbC14V3djdVFzTkw3bEpnLVFNcTVMMUNIVzV4eDJVUjcyTkdWa2pDclJUaW10U2J2VlFvRFRlMjUteVlDcEtLbm5KTUJQMXhoRlJJekJMSEU3ZWl3MzFwRks3ZnNPWHQ0MWlIRGpjM05kQ01sUi16V0lxY1FLb1NGMzE1SjNpVjRRMWZMaFBEZnFTRjg5dUVCVllzdi1ySTVhMHN2LWVoM21sNjg0SERKazVLZjMwNjZJUTREZHp2aWRCa29jcVVVcXJR0gHPAUFVX3lxTE1Kcy1VTzJleDA3V2ZLY3ZDS3RNcTFPVUJHTFYwQXhXTGVBaFkxS005UnlsNUF1a2hheGtyOXJRWDFCSmVaalRMWmF0RXZYUXUybW1sTXB2Rm9MTEtyQlZ3djFkNEZ5TE9wLVZFWFNzSy0waFFmRXJ6VkZCcl9VYjFwcUxXMkZZSEVrZUcxOVNyMHY0LXdEaWxaaDR5MldRdmlwZGNZM3k1WW4wQk5YdHhhdThTQnNpLXF6V29nejdmbXVrMXBQa3pzU0poM1NHVQ?oc=5",
-     "time": "2026-11-27T15:11:54+05:30",
-     "tone": "neutral"
+     "title": "Will RBI hike rates 50 bps in December policy?",
+     "source": "bfsi.economictimes.indiatimes.com",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDc4NjBDd2dndnU4YWctWDZzWVlud1Nfcl9ScGRScXVVeDl1VlZXbDRqZXdjSkNnbUxQRER6aDllQnItT3FQUEJHeGluN1d2TllhV21wTXJBczloWFpMcU5HYldCanFqS1lQdmdIemIzMkFzcmlSS1RLeHBEY0RTMXZ1R1VpUVNwVmJ6VGFoTG53RHQzLVZzVmlNMkp0YTNzWDNiNjBaemt3d9IBrwFBVV95cUxOck1XSVZFMEZybk82dkI2anhzUDVqb24tdk95dHdEUnNwYWVJWkRWZnQtQV96OTZkQ3BuQjdSemEzdkhpOEQtRGJvZnYxN0hQdzJhbFVCWTc0d090WHNnWXdjUVV0VHd6YXFGWGF4NDBVaHVIT01pRDFyajNuOXRqQmQtVDV0QTlWR3MzR1F6VUdza2xuT09sb0pNYVFXNFJNTWs1cGNVV2xWaTBTSkdj?oc=5",
+     "time": "2026-11-28T06:03:02+05:30",
+     "tone": "bad"
     },
     {
-     "title": "RBI sees India’s growth resilient at 6.9 percent in FY27 despite West Asia conflict risks",
-     "source": "DD News",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1pBa3VGRVNNZzhfQkthWS1XOF9sSmxzR084NFkyVHBuNXVzS1VRY3hDbXFCTDlfRnhZV0Zma1pHdXFPdkdIZ3hIMkZxZF8wU0NJTmFwYWRwS3B0WFBDMGhpTV9zazNMLVVtNHduRGFNeXpGam5SZGd4RWJXTnJVak16dlYxQW1nQzM4WUZxTHFQOXotUXQtLWk3MXVsZ0h3V2VtQXFhbS16NF9BdVNqMGY3aXc?oc=5",
-     "time": "2026-11-26T00:40:26+05:30",
-     "tone": "neutral"
+     "title": "RBI MPC December 2026: 25 bps repo rate hike emerges as base case, what it means for borrowers",
+     "source": "SME Futures",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zalltMUFDRHdhUWtNekttakhnZE9QMzVYS3pYeVo0TVdzeE5KZWI0dlhQaXRmeHVUVGVFamY1Sm8xaHpkTkNQeTlnMFNjVkhKb2JDZ2N2bUtoQ05OakVSOFZUSHZ6RHA2MTRlZlozWmpJUktGSVE?oc=5",
+     "time": "2026-11-27T23:30:00+05:30",
+     "tone": "bad"
     },
     {
-     "title": "Tighter financial conditions put RBI policy decision in focus next week",
-     "source": "Business Standard",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVFoREgwaXNWV25YMFg1aE1LTVRWY2hTQ1kzQ1E4VEkxdkZQNGFPMW9LelBXS0dXN1FXckxqMUloYTR2NlRKOXVmLVFkSjFFYjYyYUFOS0IzZDZsWEFMN0s0b0p0MlZaZndQNTE0Q1VWZzhyRTI5RFNyd2t5RlhNQ3BCTzkwREhrZVBEeXZfQlZ5YV9MRzN5dDVWcnVadlBkYUFMa0ZlX3NsOFRvYkcwVHVlVjZfWXZJeTNxMzJEVGt5b1I3Q2piamp0QmRYTTRsMjhEbdIB2gFBVV95cUxNU3ppd1VCWlBwM2x6VDFJeGY0VzVYTnBSQ29CTFprS3dBN3BJMXJBTDlZTVFkb1p5dlFoaTBZSTlQZkQ2T2VjNUtxUVJOa2hIQ2lpdDEtU0MydG5GWUJOX3VTMU1PQnl6d0dhR0RSSUFTUFl1c3lqbmhFSzVEaDdVYjBadnBBc0Rnb291Q1ZwVUhSN0RFN21HVmR2VmJEMmtnS1FLdlJvejduaXlnMG9nckV0aW5sMVE2d0ZmcE41cTFteXBlVU5JWnZTd1pyM2wxREpwamVFakYzQQ?oc=5",
-     "time": "2026-11-26T20:46:50+05:30",
+     "title": "RBI keeps repo rate at 4.00% in India",
+     "source": "Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVlodURQM2hFUTE0SWstd3FMVlFPNW0tTjdVSHdndzN1ZkVVb19xem1faHAwX3F4bGxIU2dheF9WMHljMHhWamc5R3ZaOWZOSU1oOXRUcmRlVzNkbE1yVWdSdlBEX1FRaEJkeFEzOHBjd01fc0NESUluZ0E5QlFXdFBZOG5VREtkZXZv?oc=5",
+     "time": "2026-11-27T15:56:35+05:30",
      "tone": "neutral"
     }
    ]
@@ -54,10 +54,24 @@
    "mood": "mixed",
    "items": [
     {
-     "title": "Oil on track to snap 3-week losing streak over supply fears",
-     "source": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzVQVzE5aGdzbGVhNEUtVl94M0V3RjN5Rks4UDU0U0plazFDcjFnUTBMMHBvdk9BRzFaVHljSXk1ZFdzSjlRTVRXNGZ0cnRyUWRRbFJaRjBsVWNFbDZqSnQ0cHo0TW5fRDlwMWlKWDI3V2ROcnlXczVET1RqSXR6UGtZSTZ0OTQtY1YwaG1yYTRwQnZ6TW43azNGNTFqMmpkNFhtbVJwRnVkVERhR1NnSlFIMzExZw?oc=5",
-     "time": "2026-11-27T07:25:00+05:30",
+     "title": "Brent Heads for 1st Weekly Gain in 5 Weeks",
+     "source": "Rigzone",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1JPOXpWeURqdlN5NUZ3TG1YWU5TcWJuRnJVZVB0by12bGhWRFRPOEtMZ29vNXVPYnNUOWJGM3Izd01PNlE4M0NEWHdHMjBGeEZocFBPQXpKRDVRNjY5blR6dlZFcFRhbk5jRVJsZjktaFR0Zk11elgtSF9aTzlMOEtUTEVkS3kyQTZhYmdjVUVYYmFMN1ZsQ05YRktEdUc1?oc=5",
+     "time": "2026-11-27T17:02:00+05:30",
+     "tone": "good"
+    },
+    {
+     "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – WTI Oil Pulls Back As Iraq Wants To Boost Production",
+     "source": "FXEmpire",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT1B2VzZRaXpYNzZzTjdKUHhZRGdyOThKMVA1NzB5dFJWOFF5VnlMcUh0UG0zOUVqSEpGTkw3T1FSY0Fua2VlbklTT0FQaEM3WWFqcXBZZzdyUnpyemdMN3FUUnZsNXQ4ZmN1bHlLQ2dkYm9VQ2I0NFQ2WGMwWG9PNlVLZTVraDJnVkY2dEM0M2RqU1J6b211ZEN4dS1IMURadkR2ZnE4eTBGdG0wU2JSeGJ0LXpFdHR6bzItT2FmYXdNOUxOd29JTGd6anF1VXQ1QWlDQ19KRlpEUW8?oc=5",
+     "time": "2026-11-28T08:11:53+05:30",
+     "tone": "neutral"
+    },
+    {
+     "title": "Oil prices up",
+     "source": "News On AIR",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96UTdRcXhNd09ITF9iTUtuRFFxRDFYTmgxdEpQNXlRZTZ6QVc0T2pUWDBvN0EzbWxfcnlHZ3ZLMTQtcXVvUVFHMEFYV2VLOG1qZU5j?oc=5",
+     "time": "2026-11-27T18:56:03+05:30",
      "tone": "neutral"
     },
     {
@@ -68,25 +82,11 @@
      "tone": "good"
     },
     {
-     "title": "Oil on track to snap 3-week losing streak over West Asia supply fears",
-     "source": "Business Standard",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWTVKaU1sVzFGZExzWGItSHJOSWtPNE1QNXlFM19fREZPbEEwNTNtMGl0cTFJMkVJSDYwV1RfVVB1VGFnSTZfZmlickxkM0F6dFhwbV91VnBUMnJZY3VyUFRtZGtBMjVGanhLLUpZSGZ4RTNBZGJWSzcyS3NWYmdxa2UzVkxveVktNzZ5OTJPZnR6eXEtZFV6Tnd4azdzTHFVcjAtUmVMSU9ZalBGemxidDhZeEF3bnFZVkw4QmgyZVVZRlNVQmF6Q1hUT2U1T012SkRUUkt6c0VNQ3fSAeABQVVfeXFMUGJkN25fUjFzci10RWFQbVdkQUd5aVIzWmNEXzlCX1ZrX0wwVGNFemNBWC1Fd3hyVmRwOHB4RnFLQ3RnRXpOR1RwcHF5cG9LS1Y2REFad0tyN1Q5UmJDU3BQTkJKd05JZTdOVkZ1RXA0Umh5YTR0dlNLYVdCVm1iODhfY2JpRFc0VXhkY2ZPT3pqcC1CdDh4cERVSHU1cjVNelBZcHJHVEpHNzMzbWt5ZWItSDhRT2RGQk9hZm9tY0sxcDQwZGdXMkJxTmQ5SUJoekpwMUluZTNKZU1wblAydHA?oc=5",
-     "time": "2026-11-27T11:22:14+05:30",
-     "tone": "neutral"
-    },
-    {
-     "title": "Oil futures: Crude extends gains on rising Middle East tensions",
-     "source": "Quantum Commodity Intelligence",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWUpSR3A5SVVqRWt0bm9nX2hRYU02X3V2V3JvcGRaVjRvbElUbW1iSUY3bWtWSV9ldnZ6WjFyM2JhZElQZ1VhZnNHVEg2OXg2MHhHR0t3TktXU3gwZ3JCS1FCRFZPTF9aN3FDQm1naTJ1VHJZWXZYWkthd003N0ZrRVNqX2EtNEd3QlhXZ0VBWl9FVmJ0d0Rzcy1pQXp3aGsxS1ZQQlg5ZnE?oc=5",
-     "time": "2026-11-27T14:29:13+05:30",
-     "tone": "good"
-    },
-    {
-     "title": "Natural Gas and Oil Forecast: OPEC+ Capacity Fight Looms, Can Brent Clear $95.55?",
-     "source": "FXEmpire",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSm80UzF1RldyYmpsWFhzNUp6YW12cjQ2S05lQ1lYNFhyVzVmdENOQlhPQnEtUHRaRmtNMnN3WTFXMjJJaWdpb3kwZmNuTDl0T3RBTl9mR2JjYUJRSkRYRmJCdjFMU1RSbXFSOG41N1NWUmczaklOZlptcGR2LU5xYXRHb2p6VlhVM1lDbjJuWHdINXVaTDdIUjYyaVl4UG14aXd3a3VJWHRLUTRuUUpCTEo5UlpJRDBZbEFfc2hsSWRpclM4eUE?oc=5",
-     "time": "2026-11-27T12:18:31+05:30",
-     "tone": "neutral"
+     "title": "Oil, gas prices fall as Brent trims weekly gains ahead of OPEC+ meeting",
+     "source": "Middle East Monitor",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2s1Z0U2UnRIRTBMcllWZlZxakRlZGl4T09kdnRrLUs4bjdZclJVRXY2NlN4UHlHOWJyZ29aUndRXzdFX3JGSmNHNHduTkw4VHhVWFFsVXlsWjExMnB6cUJSM2FpS190aFhlLV83NkxITG45NU5DeG5zY1RKdWRaeXdlcWxiZXVZNnNhOTZ6ZVNqOGhKcFJSMlA3UUpiaTQ2VDMzVUFXbFY1WmdMY0JCdjhBa9IBuAFBVV95cUxOUEdqZXNrTW1WMEFNdVZxRnVDQWNKOThNRXZUcEFxTVh1MXp6RmZhTWJmV0owanFrQVl0ZXRzd1V5Z0loSEp2eUIyMVJBMy15ZUYtZ1I3U0FuUXptQWsteXFOUFU3NnBXWkN0MHltVUpQXzVENVNoQ3RoUGRqd0hhd1MtN3NvaWxrUjBVMVd4bWJ5OEVMQVBSRHR2VjlPdDNmV3V6bWNGbjlXSGhYcWZTeGxkb1J2OGFK?oc=5",
+     "time": "2026-11-28T01:20:00+05:30",
+     "tone": "bad"
     }
    ]
   },
@@ -98,10 +98,10 @@
    "mood": "mixed",
    "items": [
     {
-     "title": "Gold Rate Today in India, 27 Nov 2026 - Live 18K, 22K & 24K Gold Prices",
+     "title": "Gold Rate Today in India, 28 Nov 2026 - Live 18K, 22K & 24K Gold Prices",
      "source": "Kotak Neo",
      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oS1doakpSUWg2blRCZGtNeWp5UXFadUo5cVZtTzd5bzBsdHNnUHlsTG9KVEN5UGVMaENmNVNDSGxrVmVLaHgtYWRPeEE?oc=5",
-     "time": "2026-11-27T11:54:26+05:30",
+     "time": "2026-11-28T06:00:05+05:30",
      "tone": "neutral"
     },
     {
@@ -112,24 +112,24 @@
      "tone": "neutral"
     },
     {
-     "title": "Gold Rate Today: Gold Prices Crash Over ₹4,000 in India; Will the Yellow Metal Lose More Shine? Check 24K Rates in 20 Cities And 30-Day Trend",
-     "source": "Jagran Josh",
-     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQay1sV1VIX3phblp0OTBEM25DTW1La1VsYTQ3MF9RbWI2bFVSSms0U1NqVGQ2OE1kd0xOMEhVRmtkakhPcEZoLVhrNWdDSDkyb1ZnV2Y2cUN6REt2dWRKZl9nLU1pUDJqMG0taXN0X2hXRW1iN0hZTHJfckR4NG8xcjZEdWFQS1pEYWo0UGltTG5FMW5kUHBXT010TlZSSDQ1MnFRb3lPLWhleHdZMGFYaGVpa29LLVRUQThoU3ltMkhna0lZS0s2dFRsNzN0RlhWRmRDN1c4azZubjlUaHlOaV9ueUFaSks3TjVNOThmUDRtdDRXWi1MU2JvaF9ybGc2akJQbnZfOVUzUWt1cnZSbmtlN1FMcWhhZUFsd29R0gGkAkFVX3lxTE5jRFlvYkZ4Y3NpNkhvRGs2amNKNDc0S3p0alRUNHg2V19HTkRHRURMQTBodVFhYnRQSTQyalB4ZENMX2tCSjB6SHpQaHAxaTZobEJ5QV9jQ3VMZ1lpWFFXeGdadzViYld5UTlrS0xBeThWR3cxOVZia0V4VWktcXpsSkp0MW13MFBOX0l6cDM2X1pWTHpLZlBCYmZoci01SnhhOENCdTJySkllZi0wT2dZUGcyYm11R2NYbWtoVDZWZ2VXaVNIMUNZLVVXbFZqek9ROTJId3RzYUQyLVIxWk9iTVpCVFBRU3BzclpxczAxQXZWZW1PNUZzd2p1Q3QteDRUTE1SdnJiNVZ0YmhsaFA0SDhpMWRqSExIUF9jc1VQVkVLZWQ?oc=5",
-     "time": "2026-11-27T09:52:00+05:30",
-     "tone": "bad"
-    },
-    {
-     "title": "Gold Prices Today, November 27, 2026: 24K Rate Rises ₹660 per 10 gm from Thursday; Kalyan Jewellers Gains 2.20%",
-     "source": "HDFC Sky",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRWEyY1g0Q0xQeGNnby02Xzh0U0Zhemd5c0d4clg1Q0NZSWpLOGowWUZ1aVczVjdPejJiSFhkV0FIMXlkWnBRUFd6UG55VDV2WEZuUVNLcGltZG0xUXlPV01oX2wwV2JsVmlUS2JmN2ZSTkZ3NDhQNVE3c3BndDZ3aU1PWXJ6V0s0d0p3MmdWQUgzcHh2THNuc0FidmMtWVU5czlMWV9YRG5pdldzdVdITG1XQ0JXV1FGR1NTajhxSk92UGpGLUtzdHNNRE1RdWdJVUpWZGFpNXVuLU5hT2c1NHBHTW9fRGR6UWJITUNsejhTLUtiX1VtYlJkMA?oc=5",
-     "time": "2026-11-27T11:02:44+05:30",
-     "tone": "good"
-    },
-    {
-     "title": "Gold price rebounds from one-year low, but experts feel sentiment remains fragile — Check key factors affecting outlook",
+     "title": "Gold prices hover around ₹1.25 lakh: 2027 outlook, key drivers and what investors should do; experts weigh in",
      "source": "Livemint",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPekJJd1hEUjM4MG5weWZlcGhVMVF1dEJreUdqZmZ0cGtCVnRQRmt5MFNSUC1HUlVRTEVaV00wYk9LWlBUU2RCYklYREFyZjVOaXVRVHNKdmE5WUVoU1cwVEhiVVZNYzl4X0hxZzl4SzVOc2VObE1NdDBuN1JzdTNheVFsdWJPQ1YzZnZyVUFhLTh2c1lQWC1MMFZMN3c2VFFqaG5OQjYtNzgza20ydC1vUDVDRGxEWjQxbzl3anRoYmw1RURVQ1F3b0NaRVhYbkxYNVI4bWs3QWFxcGtCQjBtWmZSNnFLeU5FUWJ3NHcxOUhjZVg5d0NDdG5hd9IBgAJBVV95cUxPNzZtczZpLWJvRDdROXc1UWxHcHV4VWZfck9UNGdBV3BXa3N6T2Via2x6ZFBhc3hKbXhfVElldjZ4ZGRxQjF2VEZaQTFNcUR4cm9ad0pPMnBISm5hNENPRDZ0R1Roa3plT0w3LVRPZ0swMHJQdWZLZXVZV2E5aWVkZGNBSkswM0ZGaW9vZnotMkdPbzdTOUkwNnRORDBIZ1VXall1am5qWjI2cXFpbnhhSWFWeHpGVmVlWDFPUjdZeE9nZTJzMjdzSHlQVUpyS2VCZE1JUVlWTDIta052WXR2VTlZZzhMeGNPR3B3RDZhYTVuMU1TTjVhOXhBR3QyMlVO?oc=5",
-     "time": "2026-11-27T11:14:28+05:30",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZUxmc1RrX3E0UmdFTERRVzlKLXpwLUgwVm5RTjl2eWdZY3dPNzJ2MW1KYjNpTmFJUk1IV2dRQ2I1SnQ1SkRnV0hvSmphdy1zMlRnZmlqMTZaNmptd20zRk12WllabzRnQ0p2Z3MyMkFtWi1ock1ka2pvWk1Sa0w3WTMxQ19ZaE52dEwyZTAwZ1JKaUFnTTBkN1o3WGRpLXFnNk5raDdJRjNCV3pZMXJxZ2Q3ZW0yd29MNmRNMmNuN3JlVVhrbEFPazRsMHVxaFNNVG1DTVI5ckRKaTdKNlc0TEgwb0xwangxcGNtdjFLN3NxZnFvYVk4X3JfU3N1eURfaUlR0gGIAkFVX3lxTE04czI4SFR6eDZJd0REN0RwbTloM21OdmdEUkd5UldnVzQxMEMycXhKUWZVS1hMTlFuaUoxRUJqdlJVY3BudEdBUlFQT0tWZlhxajhfbXlMQnY4TFBxaVpBZllmcFdQc1dIUi1IT0k2R201TVpRSEFsVVlkdk9peGdSLTJVenFlTlZ4TjZTTVVJT3BCNjkya0xRb3phMFI4Nm80elNKa1BuNE4yYzhtbXNRdkNkbjZJaUg5TXkwYkNSTEVod1NXcW9BelM2c3JOelh4T1lwaGpZS1FCTXdlWkNPYmRLWFlTbjNNLXJqTlFJU0J0THlZR2pJY2hxU0dmWkRmWFhTZGZZYg?oc=5",
+     "time": "2026-11-27T12:39:12+05:30",
+     "tone": "neutral"
+    },
+    {
+     "title": "Gold prices rise in India today, FXStreet data shows",
+     "source": "www.tmgm.com",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVlDT0ItS1dEblh6SkFraDBIMnpTR3RKX3I0cVV6aXAtellBeHp0WEJFYWZUZDRhS29ZMXg3MTl6SVo4cTNuRF90RHltNFF5eEVYZ04zb3NnZFBleFRzRm1XRWkwQmxmMktYa2dVenUteHV5WUxCek5rRzh6N2F6U0ZPVDZaSkxhdTIzUWFybUlCUkdtcTlWRUY5VFluX2owRFBfNWZfb3JZWGN2RDNqalVjMEw4dno0bUo0X3lGYjd1VzZWR0xyVg?oc=5",
+     "time": "2026-11-27T15:50:52+05:30",
+     "tone": "neutral"
+    },
+    {
+     "title": "Gold Rate Today, Nov 27: Precious Metal Rise Across India; Check 22K, 24K Rates and City-Wise Silver Prices",
+     "source": "APAC Media",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDdFR09wVmdtLThRY0ZrcnBuemhUbkhGVW5qZi1STk9GWWRaLTk1ZUJkOXRsVS1KdUYxc0t3WDdDc21IZGU5ejZzX29aRUpHRDQ5b2NaVWhUakduemdCemdXbkNKVnhLR3lhZ3pEVUdReTdIaTVWakxFVUhBSUc3NGVwbEExa0FsWVNOOU54U0FndHV5TWVSSUF4U0VQSllT?oc=5",
+     "time": "2026-11-27T18:04:53+05:30",
      "tone": "neutral"
     }
    ]
@@ -142,39 +142,39 @@
    "mood": "mixed",
    "items": [
     {
-     "title": "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform",
-     "source": "HDFC Sky",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeUxkbUJBd1IxTVF0bG1ja3F5SEY1T0Z4Rm5tOGZlNGh4dFpRRlZ4LXVxekE1YTZqOFBwWHp5ZWtMelNlWlllYlVGSkpab2VZa3N4Ry0tWFB4aFVFdy1iWGFNUUcxaDVDT2duUU01NHEzZWItZjN4Tmh1MkJzWmZYSk5UVUVKSDNoOWFzQXNJN0hsdl9xMW5nbkNSU1BkY0EtcXlYTENuRFZTbjlHbHdncmt1SjJTX0tyUDYxU0dxbG5DVHlHU1o2WFNLV0VOU2FrNzNlME9jb0RjcE9lMUFSdDM4dFZYeEM5MXV4amJRZktpS1VoQ0tJSnlkbUdJZ1VLOEE?oc=5",
-     "time": "2026-11-27T10:19:39+05:30",
-     "tone": "neutral"
-    },
-    {
-     "title": "Stock Market Update 27 November 2026: Sensex, Nifty 50 Trade Lower After Market Opening",
+     "title": "Why Stock Market is Down Today? Factors Behind the Fall of Equity Benchmarks in Today’s Trade",
      "source": "Kotak Neo",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjIwZ0pNcTkyb0RpSlpuSmNjamg0a19LU0tOV2F1eGdqd1hxWjRrYkM2Z2JXLWtLU21fSGxYQXdxRURpYXI3SzUyNExickxaLTFTbkhfamREME9jSFpvMVhtLVRtcmExbjJ1QVRiSUpXR2htU0NUUmx6MmRfc2hxVld4UHhJX1lxRXNuMVBaMnlIQ0pTSXJj?oc=5",
-     "time": "2026-11-27T09:53:39+05:30",
-     "tone": "neutral"
-    },
-    {
-     "title": "Sensex, Nifty open lower as Brent crude surges above $96; Geopolitical tensions weigh on market sentiment",
-     "source": "ChiniMandi",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORVUyWXB2SzdJX3FKTW5lOGxvZF81VEpYcENpOTR6VzZCOGpKbXNpb29YUHNmMXc1N2JjTWlPUlpTaG1aREk3WjN6LXkwQUQzRDBKUks0a3hjZzE3NUo5ZU9JUWt6d2JCT3M0ZFRkNTR0eVlHMF94T3JmdFVvUjdNMnhheTh5LVkzelo2OC1FS2V5d2k2cEVsUGJJMUhrWmNnYUFaMTBuTjJSMW54eTdiZ0tqa3JqQlhYV1hwbHotdnpQdkhlZFdvQkNB?oc=5",
-     "time": "2026-11-27T10:23:31+05:30",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
+     "time": "2026-11-27T19:31:17+05:30",
      "tone": "bad"
     },
     {
-     "title": "Sensex, Nifty open in red, end winning streak; IT stocks lead losses",
-     "source": "India Today",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaFdOZzJaUkd4b25UNnNtTS1UZG40Z2FtR2RaX3BVUjNGS01IaFZsdFZ6VjNZbk1tNmxVQkJCNkduZkhxVVp2YW5MNEFWQTMtTHpMVWxNbzdDSjk3WHpram5zZkgtQnE5a3hpZ0JMUEt2LVJxam9iSWRmd1dicUZhMzl5QmtJWXpfNUFZdzdHTWlCd2ZkRF81SmJQNU05UUE3ZGlyUnZtZG92Uk5uQ0wwcVJsSHhYcVMyWVE1d1NmQW5QTkXSAcgBQVVfeXFMTmk4OUVpOFV2Y1NBMmVHWldyMjdrYzVfcHg5LVJYZ014TzBiLURzUFJ5aFNTaDlaa3hsZW13WlpHNjJOalNTcDd2d3U2QVNQQzFIYWY4aGU0ZWh3bkNsRE5lV2dPSEN5d0tvbkotc2NfaXVXRS1jVnhtZkRjQnBPcnYyY05HYjJwRE95aEh4SjFWcldKSUdoaG1CQUx5b0NxMUE5UndhRjI2Z2N1MVMxWTJXU1RSRnZXYW9tVkpmZjZxVjI5OG9HXzM?oc=5",
-     "time": "2026-11-27T09:18:23+05:30",
+     "title": "Stock market today: Sensex tumbles nearly 1000 points, Nifty50 below 25,650 after 2-day rally - key reaso",
+     "source": "The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNkhJTEZQZWR5UGtmNWl6MzdIM0hqM3lRbWZzT0xsZ1J0LVplVXNZejNGU1dueVdQRXlVRkExQzllbzlJZ0RRQmxvbHdCbmEtRWxEU1M0WXRLSDlaS2Y4aFMtSl9LSnRDN2lsWGd4dlBicHlkTjNpd2M4MGF0SjVmbHdNOGtwVDBsS2xFZG8zV0tPVW0tOFBNdTZUY2I2WmtPZE1PYmV3OHZGLU9SLXhJeGM1YVJKa0NtZm9WX2pqLWNRVVVSUnFzOXR5dVZtSzN4YjJOY2dHZ1NhZmFvRmtkVkcwQWVkaXV4dmhVemV6WFk4V1FyR1ZtZVBia0czLU96Z0pCYjdEbHlyUGw3MUg0STA3bURTS0ppMGRUeDdlNTlyX3NRLVpF0gGsAkFVX3lxTE5nM18zX0ZQVm9IOE56clFkZGpCVGRBN2lDelNiZnU5Z2V3X3JLbG9XZEtKbzN5VjR1ems3eEZmTktaM3VWN3JzT1B6TllmUk5TRU9zQzgzUHBIS0k1SHVHY2VwclVNcUFjcUZzN0ZJdVFHb2VPOFAtWXg0eVBWYnZMcHFZTTRuVEhKQVRvcW5kcnN6bDN3Y1BlaWFodVVwXy05YWUtazZQd2FOMHA1elZVSUI5T1h4WV9yREw2RFE3U3JkTHVPV2k2T0Q2alRRNER6dl9qREtxdDZYWUhJdHRLV19zbnpyNk5zNGVhX29mWWJEV0VEUHRXM0F1WkdHVGJnM080M3ZRSXBVVDFTeHliSmF3a3AwSkZ3N1o2a3Z4Y2dHNDlqNlQ1ZmZwUA?oc=5",
+     "time": "2026-11-27T16:07:00+05:30",
+     "tone": "bad"
+    },
+    {
+     "title": "Sensex down 990 points, Nifty near 25600",
+     "source": "ChiniMandi",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05VkZIaDFmRHZKQ0lkQVpFZ25kWjNiNzdCRmo3SHZSc2M1R3ZwYXdoVVgwX1JpelVhLTRVaEpLM3N5RTJKOHNUd2Y3U3pRRElqREVDWkttSUYzWTJvbm15bFR1dEdYbEViMXljdGF4bFdkMklPWnc?oc=5",
+     "time": "2026-11-27T15:40:36+05:30",
      "tone": "neutral"
     },
     {
-     "title": "Stock Markets Today: Profit-taking pulls Sensex, Nifty lower",
-     "source": "Rediff.com",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY09SVlNiVmlPcmYxUFo5TjdGVzRLZHJIVENqVGhlblFhNXVlYnAzRy1nYTlSR0dTeE50OEpSV05qRzByeXdaYTlzZm5XaDVwcW14REhXeDJ3Q0cxcjVyeUdTd3QzODNZRkZKWjBJLW1xYjl5N1FJU3NpRnZBU0hhMGYydTZnVHVZQ2VmSmphbW5RQ1VwRU5aMzh2LXYwb1VBX3pWLTJDdFhfSzA0LU50dHlUSW1mSEI0alk1LVB3NWt5ME84azNWUFQ2T2MtRGFLb3JGbTNmNFbSAdsBQVVfeXFMUFRrOWhUNGpmRWNCSTZFU0NXZy1NdHAtemd2SFRkNVdlamVYS2MwMVRfNk92NzdidUR4NlkwRnFIZEI2by1EdXA1VkpzSEx5RFhocHJzeFdFZEpWM0JXXzVnQzZRc3JhWm11empYdXVvWHVQZ01GSmYzVUU4QXc3WWFTWTBMUTBXTHVQQTVXX0dpYTltTHB4MVRTVmk5X3RmN0JWYTVycGJzSHVvNXVaRkhoN25mNXpqN0d3eU95LU9HeDVRZHBSelBTaXJJbFc2VW9xWFFINkJIWDlJ?oc=5",
-     "time": "2026-11-27T10:58:47+05:30",
+     "title": "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts",
+     "source": "DD News",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdYNEhHMFZZeU5ZOXg4ajZjYV80dzVmbzdMaWwwdWZ5SnFhYVRaSEFCSllzMDlvSi1FYV9sNlFydzB4c1Fqamp6ZXZ1enBXbnh0VjFpMXFFYVZpY3VhSjd4aUlFaGNRWTczYTk1SDdIUTJ3UkJ5WFI0bUJlb3JYc2dCdW1RTDl0emVWaXZDZS1XUlhyNmhYTWJzN29ROGg5R3JzTHhkNG5zdGct?oc=5",
+     "time": "2026-11-25T12:01:40+05:30",
      "tone": "neutral"
+    },
+    {
+     "title": "Stock Market Today: Sensex gains 390 points, Nifty up 0.25%",
+     "source": "Multibagg AI",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzFkMTl5eWlEd0hsY1B2QklOV1VJMDV5THZCRXhFQ3JoUUd6a0FBYy03bk5TUGRWVURfV1A5cm5TVW1oVlBRaFRsSEQ5Ukp5cWJvd3RpdnI0QU5VbjV3a2NRNWxuOFlHNnlKNUQ0WExPNTlmUXFBMUFvZzFGVGtXYzh2dTNBMnU2bkdqbU54bHQ3eWpVbGJuQllWRmZVN1ZD?oc=5",
+     "time": "2026-11-27T16:30:25+05:30",
+     "tone": "good"
     }
    ]
   },
@@ -186,17 +186,17 @@
    "mood": "mixed",
    "items": [
     {
-     "title": "Airpro Technology India IPO Day 1 Subscription 27 Nov 2026",
-     "source": "Univest",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOel9IcDV0djlXeUhrekVhb0EteE1GbkZDUVhkNHdndmlqdUdFbWxmRjRGSm5BSVRiS0QzTGIxcTRyc3BGeTF0N3lCQnFlY2lqY3M4cGVNN1dKblFKenNYWGpVbC1lR2lhZmtERVV1Sjk3N1dOMHFGZGpLUEtqMXBpRXVCUkVyOS1Xa0hyQndXRjZCZzlGeTE0cXV6dllsVzJoOUk2cll0cmw5U2Jo?oc=5",
-     "time": "2026-11-27T10:45:07+05:30",
-     "tone": "neutral"
-    },
-    {
      "title": "Foodlink F&B Holdings IPO Opens Today After Raising ₹162 Crore From Anchor Investors; Check Price Band and Key Dates",
      "source": "Kotak Neo",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkZwQ2tnc3NpTDI0MmFDNFZFNWx4bVZmN01ONWU1b0NsbEFDc2MyV2I5azVaYjFZV2s2cGM2VnBaMlNod2x2c3pjYWpSM3RvLWNLS094c2IzLU1ySFdSczRpNENGTWw1NGQxajRJcHlZMnlZc0g2aUtfQjJaM3IxTWM0ZVNKa25OYndrdE5SQmNRVUhOS1BlTTl5VEhMZnBGMUViT0d4MnMwNmZaOGpYVGlQMEhYc19FQTM2U080c0QyWDBiUXRzeFc2M1FIWThDcVJmbQ?oc=5",
      "time": "2026-11-26T09:38:11+05:30",
+     "tone": "neutral"
+    },
+    {
+     "title": "Airpro Technology India IPO Day 1 Subscription 27 Nov 2026",
+     "source": "Univest",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOel9IcDV0djlXeUhrekVhb0EteE1GbkZDUVhkNHdndmlqdUdFbWxmRjRGSm5BSVRiS0QzTGIxcTRyc3BGeTF0N3lCQnFlY2lqY3M4cGVNN1dKblFKenNYWGpVbC1lR2lhZmtERVV1Sjk3N1dOMHFGZGpLUEtqMXBpRXVCUkVyOS1Xa0hyQndXRjZCZzlGeTE0cXV6dllsVzJoOUk2cll0cmw5U2Jo?oc=5",
+     "time": "2026-11-27T10:45:07+05:30",
      "tone": "neutral"
     },
     {
@@ -214,10 +214,10 @@
      "tone": "neutral"
     },
     {
-     "title": "Foodlink F&B Holdings (India) IPO Subscription Status Day 1: Issue Subscribed 1.09 Times",
+     "title": "Airpro Technology India IPO Subscription Status Day 1: Issue Subscribed 0.79 Times",
      "source": "HDFC Sky",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWpaOUktTlJzSVBGRnFfRWRqRm13ZTlHcG8tZGhRVU5kZ1dfNzlmVDhaVFgyb0VhbEkxUUxSYWRMYS1ocDBoMWJDYTNDV2FCSGNuell0Z09SYlNELVhDdFBmQmt6aXlUWEdyZnptX0xaRVlZdFhGYU9wdTBXQXJmYkRDcUtpaVFr?oc=5",
-     "time": "2026-11-26T17:15:31+05:30",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaF9pUnViYXFuR3lPZ1BxZFlrSEVMNFNGUGpJTl93Z18yVFJ2TDRhcjNLRzg5UnBhbVd5alRoZEFDWE1iRHpvQWhFMm9lNmpKdjJVbGdpMkc0c3R3bjdLZGVjMVNmQ1NySl9oQ2RVQXp0emlFU3JDUXhGejhBd3ZHYkJqV0Y?oc=5",
+     "time": "2026-11-27T17:10:23+05:30",
      "tone": "neutral"
     }
    ]
@@ -244,13 +244,6 @@
      "tone": "good"
     },
     {
-     "title": "Mint Money Festival: a financial playbook for uncertain times",
-     "source": "Livemint",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTQ4dDZqSzF4THBtMzN6bmlsd3ZuLUQ1dzdWZWFqME5IOU0xdEl2MkQzcG10RzdleDB6SG1iTl93bi1JSUNUb2RQZENpNmdUVXJpV3JzbGNGX0t5SzNqT3gza3lPU2tCOFhzaHhUd2VuSmtUWlZERnV2d2tIVndKOUg4VGQ3Ny1iYXNNTWhoQzd0VkdZN3dDQzdKaXFDdy1lWEZJVnJfZG5kTEpYcXNYQ9IBtgFBVV95cUxOZGVFclJINzk1SmlJLUlRc0NCck54bnp2ZC1XOE9NcExwTlhpdG1OU01NMkVmNldPYlZ1YUdXb3BjUXlUamFLRFBfSFNWVFVSQkZNelZSakROM3dUVlVLNzNITjRyQ3doLWxwbmxTU2ZBdmZxTlRRZlhPRlFKdFRPakhqUlhIVHMybXdZbG1SaTNOUjJDQjl3Si1kZzBMNTZoUzhZZGxYQVZORHZBUzlCT1c5eV9BQQ?oc=5",
-     "time": "2026-11-27T10:39:07+05:30",
-     "tone": "neutral"
-    },
-    {
      "title": "Markets trade flat in early deals amid elevated crude oil prices, geopolitical tensions",
      "source": "DD News",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFZkOFp5SmZwQmo5NnhoUUhrY2VXcmdmOVJkb0tKZG1TYUMwNkdwUHdlTk50RWp5dFJ6Z2t0eHNtUlZJb3M1M0tNQ2piSlJDYXV0LWV0VTM1c0QySi04WUpzY2V4WmdFeENtSGxodGU2R1RocE9FR0VNTVNHbjdlQ1MtYUhBRTJBUGEtcUdKVXB5MWs1TXM0bGhqTDRQRC1faW16RjJ3bnduY3VsakV6RWZ3?oc=5",
@@ -258,10 +251,17 @@
      "tone": "good"
     },
     {
-     "title": "Oil Market Insights: Latest Trends and Analysis for November 25",
-     "source": "India News Network",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUlpDMjRpNzd0MXpzTTgyek1Yb0xVeW5QSmZmaW92THNaSlBZaTBLRzJZcXgxeEFXLW1YZ2ZJc2traE1wQzFMRm9JMXlpX01KeHBCQWljekdrVVZuRU93cnp6WkV4WVpPZUJsbkE5aFZWUUZ0X3Y3SkFoazdaLW1fZFF1VFNQQlZJbjBGNG13ODlpcE1IR0pSaDN4eUFpSWZW?oc=5",
-     "time": "2026-11-25T11:20:30+05:30",
+     "title": "Sensex tanks nearly 1,000 points, Nifty slips below 25,650 as geopolitical tensions, rising oil prices weigh",
+     "source": "ANI News",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY1NMQXdCelBuRTJfU2xFQmFsN0hLeXRORUJZSnRxclFDQjlUV2FkdjVIVEpiWUZJNGRYR205Y1JtUHFSRWtJTUhFRi1wV041eHk4U1BkMjJmUnA4ZHhXTUVwT0pBaFFnT2E1RUdSb0hGTGZRaTN1WHVNZ1dIMV9JdEVrdjcydjItT2NHTFljY2lDTHBkVl9WZFhNNWkwVE11Vy1Bbmo3NHFLWWFhQm9Xbl9WMjN0LWhDZ0ZLeGt4ZE5NcklITU56THBWbHpFM01feG5TSHU2YmpaaU5RSXNEYkZxTHhZdUtJalpZ?oc=5",
+     "time": "2026-11-27T15:47:00+05:30",
+     "tone": "neutral"
+    },
+    {
+     "title": "Profit Booking, Rising Crude Prices Drag Sensex Down 989 Points",
+     "source": "Rediff.com",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWdoVkhZekpfalN0czctWm5ERENvTlM3TnotWTNtRER4OUhtczNWMXVVZ0ZpWkpvdkEzTFQzNmI1dkx4ek11Y09pUUxucmxQaWtQVWJlcUlEc09qNC1YelBYQjdwbXJpelBLcG51NE5MNjJ6ZGFQZkJjeGlaaG5nRGJ2NHlPOFVfSFFQUHZqR3l6MHd5RXJ3R0VKdmN0bEY1dTlTYmllelRvWnlmdEU1M3ZhLURCU3VFMzd1TnRQTVpfRDdLV0F1TzFpUG1ValUtbHpQWlE2V25nUnFsZUHSAeABQVVfeXFMTUplel9ZNWhheWI3dFgxZWdxTTI5dGtvYlBPRmZveC1GQkpkcWFhYjBmb0ZxZnR4ZTRyb2RpOWJzR0hWNF9xRE5mcGkzUG4wWHZTZDVyRDRuRGlUZVFINHh0Xzc0UkQ4NEdreEtYN21aUExVWXBwZDFEZG9lN2t1dEdWSURJTUcwQ1lCUWh3czI2R0VIS1RDenFDS2pqNlNhU0RmTjZXc2NTdXhQWEtqRWhxdlpwM25iWFIzdUlvUkYyLWxoSm5rb2thR2ItR0pVQjdTM2ItUV9kUHdyWmhmTl8?oc=5",
+     "time": "2026-11-27T17:15:30+05:30",
      "tone": "neutral"
     }
    ]
@@ -274,10 +274,17 @@
    "mood": "mixed",
    "items": [
     {
-     "title": "Official exchange rates on selected date | Bank of Russia",
-     "source": "Центральный Банк России",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcldQcEpOMEd0OGVlTzFTZnlKM2lYZ1JxQ2FvLUVUMDI2WnQ0bnk2SzlEV01pb2RKNW40WVJTTzNUTTdDeFJmSDFJN3pnZE5tS3QtakRR?oc=5",
-     "time": "2026-11-27T08:25:37+05:30",
+     "title": "Convert 0.01 USDY (Ondo U.S. Dollar Yield) to INR (Indian Rupee)",
+     "source": "Bybit",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxQUp4cEZjYnY0aXJHREh4ckFtWXpaUDBoVDFzUmk2ZFh3SVVHdkNRYWtRYzdzU1V3MlFtdDA0M3lBeGgxMkxEdzk1amJVSUZBTWRXZ2RlWUowaGpZdTlZ?oc=5",
+     "time": "2026-11-28T04:14:00+05:30",
+     "tone": "neutral"
+    },
+    {
+     "title": "The hidden cost of a weak rupee on your daily life",
+     "source": "Free Press Kashmir",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRllNSTZab2dlOGNGQVpEMmtCMWYyVFdLczVRQXh0OHNCb2dVQ1ZwUGN5ZDVZbFN2VC1VakRrN0xqaVFrTzEwaXdhWGswY3RTVnBuNVNNSFpIYVkxOEZTUzZfemZieUJSUHdXNWRuUXRCYTVqb3R3bE5sdnRlUzZhWDY5X2p4V3JTVlo1V2F6SlRqeG5ieGFV0gGcAUFVX3lxTE4waFo1LS1Id3cwZ1N2eFpiV1B2cnAzUWRrelAxR05rS2NMVW1lRy0xbFIySzY3OTVoUXpIQ1BLVmdFN1l1Z2VTZURMT1pkRzZXZW95U0lxX2tpWE02VTJyVTJOVFplZHFQTC1MYWcxRHJ4aVdOTXNRM2lEUU5aejk3Q1VkanE4Y2I3TEx0N0JYSTFqQXQtbTYtVi1DRA?oc=5",
+     "time": "2026-11-27T16:10:06+05:30",
      "tone": "neutral"
     },
     {
@@ -288,25 +295,18 @@
      "tone": "bad"
     },
     {
-     "title": "Gold prices hover around ₹1.25 lakh: 2027 outlook, key drivers and what investors should do; experts weigh in",
-     "source": "Livemint",
-     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZUxmc1RrX3E0UmdFTERRVzlKLXpwLUgwVm5RTjl2eWdZY3dPNzJ2MW1KYjNpTmFJUk1IV2dRQ2I1SnQ1SkRnV0hvSmphdy1zMlRnZmlqMTZaNmptd20zRk12WllabzRnQ0p2Z3MyMkFtWi1ock1ka2pvWk1Sa0w3WTMxQ19ZaE52dEwyZTAwZ1JKaUFnTTBkN1o3WGRpLXFnNk5raDdJRjNCV3pZMXJxZ2Q3ZW0yd29MNmRNMmNuN3JlVVhrbEFPazRsMHVxaFNNVG1DTVI5ckRKaTdKNlc0TEgwb0xwangxcGNtdjFLN3NxZnFvYVk4X3JfU3N1eURfaUlR0gGIAkFVX3lxTE04czI4SFR6eDZJd0REN0RwbTloM21OdmdEUkd5UldnVzQxMEMycXhKUWZVS1hMTlFuaUoxRUJqdlJVY3BudEdBUlFQT0tWZlhxajhfbXlMQnY4TFBxaVpBZllmcFdQc1dIUi1IT0k2R201TVpRSEFsVVlkdk9peGdSLTJVenFlTlZ4TjZTTVVJT3BCNjkya0xRb3phMFI4Nm80elNKa1BuNE4yYzhtbXNRdkNkbjZJaUg5TXkwYkNSTEVod1NXcW9BelM2c3JOelh4T1lwaGpZS1FCTXdlWkNPYmRLWFlTbjNNLXJqTlFJU0J0THlZR2pJY2hxU0dmWkRmWFhTZGZZYg?oc=5",
-     "time": "2026-11-27T12:39:12+05:30",
-     "tone": "neutral"
-    },
-    {
-     "title": "INR vs USD Rate, November 26, 2026: Rupee Falls 20 Paise to 92.40 Against US Dollar in Early Trade",
-     "source": "HDFC Sky",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXpLVnhfVFZIbW1ZVXhTempRNEVFYVZWVEtqRVZOQ05JZUpFSU15bVFEd1pKbnBMMWVuR1lkRmJlM1BFTm1lOEtCWTdfQ0djVzN2aEdFREtMeUxYNl81YlhkVHJCMVJxbm1pUVNHejFIVndTZWlxc04zN1RGWkVHdl9RS1dyVlJHWEJTTmdyZVM?oc=5",
-     "time": "2026-11-26T10:08:38+05:30",
-     "tone": "bad"
-    },
-    {
      "title": "US dollar to Indian rupee rate prediction: Weak momentum keeps USD/INR flat below ₹92.5787 resistance",
      "source": "Traders Union",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObHJ5QktCSlN3MW5UY2UwVWUtVmRxZGNnZ3NjVWNlM3o3RXNGWXpCejlGUkQ4UF9CUzBKOUw0YTEtQ0FLVWtWSEVBUlNibVpJOVg1WHQ5Rkx1Wm9tdVFGZUt2ZHhwUUM3U1NrUDBRXzJQZE1ZRzRSRkZMZVdxODRrOS1BRjBYdw?oc=5",
      "time": "2026-11-25T13:33:20+05:30",
      "tone": "neutral"
+    },
+    {
+     "title": "Rupee recovers FY27 losses, hits eight-month high of 92.29 against dollar",
+     "source": "Business Standard",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0FROThnQ2RpbmpUWkdBc0tGRm1yQ3JXX2IwbWlKMXduWklqMWVpbGF4b0M4cTdLSWRaZ1BSNjVNd1NsZEo2bUFnd2hEUmY2SzFsWEhhMUZHYUt0Y2E1WnBKLWpkTE4xU2s5M2kxUHpzZk9DWnpkTTItZTdmNlBKSjlobnFoTlFaNFJmMExCYXkwMnVFNFB6OTkyNk0yTVdhNktha29lRmEzSmczV2ZBZWQ1dGZkOXpoRFp1SWJNaVhCdEtIa3pfYVlnZUNxZ9IB0wFBVV95cUxNMF92TkQzNGZwSllxS0pxV0FCYmhFcGttZ0NlT1BUeVltR1JiMVJ5cm4wOWphazZZSjJ2cGktSG1tRXRtcUZUaVB0MXdEdTdNM3BaNVBIN2N0WGtiWkEyZURMV3JsTlEwMjE1UWVldFhaeHdxTDg1REhBS0VraVlaXzd6SVJpVXpqV1J4UkdjRFVVcHRYQ0FvMzRDT2tqa0xJbGpZN2NHYUgwcUp6RlJoZ1VUeko1OXAyMzlUQmUyR3BfOHdVX1ZTbHo2dzVuNFE5MXNv?oc=5",
+     "time": "2026-11-25T09:48:07+05:30",
+     "tone": "good"
     }
    ]
   },
@@ -318,6 +318,27 @@
    "mood": "mixed",
    "items": [
     {
+     "title": "Next-Generation GST reforms reflect India’s push for simpler taxation and Ease of Doing Business",
+     "source": "DD News",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcko1T3hRLVc2Wm55cC1wWk81OHVzUjNwNkRKYW1nRi1kTmVRdUUtc2o0eWJfR0IzQVE1cXQ1Z0FLX1B3eFlIWjIyUTI5emlJbVZJTEFFc2RPZ1lZQmp0Y2pxME1hSXhheXZjRG5kY3NQSXdwa0RXX2hBem9nbXJjZ1RrbEVadkN3eWRiNWhGb0Jvd3A5NHlEd01JNjZIc0xvdVlxSXBQbk5IWlNLb29fdnpyS1dnRzBJLXZENWNR?oc=5",
+     "time": "2026-11-28T00:59:39+05:30",
+     "tone": "good"
+    },
+    {
+     "title": "Time and Place of Supply Under GST: Provisions, Rules and Practical Illustrations",
+     "source": "TaxGuru",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWHd6aHNDU2FvWjA0TDUwR2lCYkJTeVVtUmpEdklHQ2MxZTc1X2M5bUYzVjktUm5wM3oxeEtKVTNMeGFHeldYRUtmTndtTXJjRkh4bkxoXzJiM1d3YzZTQ1pLUzNLbzdTTHBEVGx2d2hkbWMtX2hOZ21peU9sbVN0cVhpNzNNdmdNdWxJU2FndTBnT0M5ZVJuMnhPUW0yQ1lXRTJfdG5hbFJVUmFX?oc=5",
+     "time": "2026-11-27T19:28:11+05:30",
+     "tone": "neutral"
+    },
+    {
+     "title": "GST changes from December 1: Automatic registration cancellation, easier amendments and new refund rules explained",
+     "source": "Livemint",
+     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcVlQSE1RQTdiOHdMRE9ROXRmaVJrRGNZVS0xOVFXS05tMklwVXZwelFxdU05ODgwQjBiTERnSVBQY2pWNFhTMk14cUgycDRzZFRVVTZBNmdNeXRxcG9rejMzaFFDZk1tbDI3Z1B6Q2dfLUFRaG90M3BFSTh2d2FhUDFoeWZVRFladFliM0lWXzgyMklJTDYyajM3SVdGZ2Q0UTZ3a0VjSXBmcm9qdnRpN2pLX1FtemRUOVBJWlZDdFBpUXZGd3p5ZHBDNTJtMFRCc0ROd0ZndTVUZHNmRzlLOFU1Z05neDJ5VmZBU1NqM3NGQUZ1Z3FSdml6ZEdHcTNyaUd1ejlFX3JOQmUt0gGSAkFVX3lxTE1ldWM3bkVJcGx3ZFM3UERKLXByNGw5NXdNTlAzQ2hoaDdmajU5Ykx6MEJ6akxab0trVmhGOEtab01WeDlTSXNQNFNWRzhCdDIzX3Z2RUpmaV8yQTNSX1I1MEN4OWliTXdYU1Vyb0ZiaXU2dFRIbjdPVkRDYkFkZ19Gc09URVN2aVRqZW5Qc1poaG1TWk5JUDZYVDl2RFNlQTg1UHhucVIzVnZPQ3lGblE2UWMyRE83R0E3cTRYdU5HMVVDSkY4QUptWDA1dTdTZ1liYjJMWjJ1ZTVUYk9pODRiSjJCZVQ2SjVTSWdjZzZhU3pXNVdYUmJUWF9iSmtkbXlRbDFDdzUzaW5XUEpraWVaOVE?oc=5",
+     "time": "2026-11-27T16:10:05+05:30",
+     "tone": "neutral"
+    },
+    {
      "title": "Nine years of GST: How India’s biggest tax reform is driving simplicity, growth and a more formal economy",
      "source": "DD News",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaldFRkpDWkY0dEpJdlFwS3B3VmVOVE1RR3JmOGxDbFVwY3hzblBQcldOVWpIWFpSV1JRXzJfMGlHM3Q0emU3cFRLTzFDMXh2Zm51Q3E1OXU1cWl6ZVYyQnZYdE5EaHg5d2xfRU5XeVRnQXY1VXdodzRpcy1FVWhmaW5UenRTa09yLWpOSEZtU1ZEcUd4cWpxUjVVVFBqQWl3TzBERnFmUG00WmI0VzNhZk5qNEdyVDl3blc0Ty1MUk51SWVBYXFV?oc=5",
@@ -325,31 +346,10 @@
      "tone": "neutral"
     },
     {
-     "title": "Opinion: The true measure of GST",
-     "source": "Telangana Today",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03M0xDZTZkejBycm12VmZ6RnBnbHNDdV9jUmhWVjBwdE51aEx6VzJ0MXhHTEE1U1NFY21vODJaYmFDckEySFA2ZWc4YjVtWEFqSlR5LWFUc0dfbC1ONThLbWpoYkJ2R3ZwMVE?oc=5",
-     "time": "2026-11-27T00:49:40+05:30",
-     "tone": "neutral"
-    },
-    {
-     "title": "CBEC To Be Renamed As CBIC",
-     "source": "Legal 500",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xSjY2QndTanJNYUlEN0NQajRkeE03TDdrNE1kaWl4UWU3d2dvLV9wb0tuck56b3lBVUcta0pNSjlpU1dKZVNtNlFVbzhPM2E1U1pOVzFMR2psTUZDb29tM0dqeW5fbDdxWW10TTAwakMwQlU5X2ZVMkRNTkpyV3c?oc=5",
-     "time": "2026-11-25T01:16:39+05:30",
-     "tone": "neutral"
-    },
-    {
      "title": "‘Reformulation costs, inventory losses, GST implications’: Food industry flags concerns over SC’s...",
      "source": "Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSFozV0RnMEVURi0tN0oyazRJbHcxNHo2OHBDSkJ2dVpfTzROYkUwUmVpZzJQMGtFWE5QU0cxcWpSbTN3Rm9IbWxPZXp3aHk4TEdrT2dod0pnVW5qeERwYnIzSnFYN1Zqc0hMWFNjWjVEeFFXS1pEOTNvMkxhZzAtYzRfMVV2MXQ5dVhXWjZUZXd2ZFp2Uml5SVBCeXAwSTM5MWplejBZckNRZUpKQ3NDUlF5TV9HODFBYnE1WGhtQ3o0c1VyUDFEVkJQaG9seGNnLUdvWkhUZUR5MEYwSjVMLXA4NXV0OVc3R2M4M2dRcGtUZ0ZYNnlRaGhOYzAxazhS0gGAAkFVX3lxTE9IWjNXRGcwRVRGLS03SjJrNElsdzE0ejY4cENKQnZ1Wl9PNE5iRTBSZWlnMlAwa0VYTlBTRzFxalJtM3dGb0htbE9lendoeThMR2tPZ2h3SmdVbmp4RHBicjNKcVg3VmpzSExYU2NaNUR4UVdLWkQ5M28yTGFnMC1jNF8xVXYxdDl1WFdaNlRld3ZkWnZSaXlJUEJ5cDBJMzkxamV6MFlyQ1FlSkpDc0NSUXlNX0c4MUFicTVYaG1DejRzVXJQMURWQlBob2x4Y2ctR29aSFRlRHkwRjBKNUwtcDg1dXQ5VzdHYzgzZ1Fwa1RnRlg2eVFoaE5jMDFrOFI?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaXZmVUdBOFFPU2dzN25IX3lTNllGMDhKcnNXT1NLdVl1MDNVaU5qSmpuaTJyRC1ETkx0S3lqWDNfZGlGVncwRHNzWW83R29LaE04T2xaUzMtYnVIek1IQTZlTFdRZVQ2aGphZEQwb3JzQXQya2F6dVhDUDN1Z2lrZl96djdoMXUwaVRGNWk3ZGlodi1TNXlfRmF6UzF1NEFyZFJlMmpkcHg2R3VuNVNfZnBVaUFVM2JIaEFHa2V4QkhST1ViOHBZWFZhSVFqY1l6UG12VTk5alpzdnF0WkZCeG1IU2RTWTdJc2tvX0ZWamt2VDh1SkpWckgtd9IBgAJBVV95cUxPSFozV0RnMEVURi0tN0oyazRJbHcxNHo2OHBDSkJ2dVpfTzROYkUwUmVpZzJQMGtFWE5QU0cxcWpSbTN3Rm9IbWxPZXp3aHk4TEdrT2dod0pnVW5qeERwYnIzSnFYN1Zqc0hMWFNjWjVEeFFXS1pEOTNvMkxhZzAtYzRfMVV2MXQ5dVhXWjZUZXd2ZFp2Uml5SVBCeXAwSTM5MWplejBZckNRZUpKQ3NDUlF5TV9HODFBYnE1WGhtQ3o0c1VyUDFEVkJQaG9seGNnLUdvWkhUZUR5MEYwSjVMLXA4NXV0OVc3R2M4M2dRcGtUZ0ZYNnlRaGhOYzAxazhS?oc=5",
      "time": "2026-11-26T20:34:21+05:30",
-     "tone": "neutral"
-    },
-    {
-     "title": "Private Equity Fund Economics India 2026 Guide",
-     "source": "Global Advisory Experts",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEhzbklYTjB0M0xZeV9UZmRHZzlhVTQ4ZS1EWGtVdE1UQjR6SG9KMHVyYUFENm9DX2xwRS1LclFEWmtOdTdodlBTb0xPbU93VXRwdkRZWmFmVGVxdmgzT1RkSFNfMUtLOXNiQlVqNEV2WmR5VHRJdUIwc0RjVE91cXdpNndYQmRzN3JkdWZ3?oc=5",
-     "time": "2026-11-25T11:34:35+05:30",
      "tone": "neutral"
     }
    ]
