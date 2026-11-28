@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-28T02:50:03+00:00",
- "updatedIST": "28 Nov 2026, 08:20 AM IST",
+ "updatedAt": "2026-11-28T12:03:36+00:00",
+ "updatedIST": "28 Nov 2026, 05:33 PM IST",
  "premium": 1.09,
  "market": {
   "nifty": {
@@ -40,30 +40,30 @@
    "chg30Pct": -21.23
   },
   "usdinr": {
-   "last": 92.98,
-   "prev": 92.24,
-   "chgPct": 0.8,
+   "last": 92.99,
+   "prev": 92.45,
+   "chgPct": 0.58,
    "high52": 96.88,
    "low52": 89.16,
-   "offHighPct": -4.02,
-   "chg30Pct": -2.34
+   "offHighPct": -4.01,
+   "chg30Pct": -2.27
   },
   "gold": {
-   "last": 119535.06,
-   "prev": 115211.14,
+   "last": 119547.92,
+   "prev": 115223.53,
    "chgPct": 3.75,
-   "high52": 173295.69,
-   "low52": 114546.42,
+   "high52": 173314.33,
+   "low52": 114558.74,
    "offHighPct": -31.02,
    "chg30Pct": -9.46,
    "usdOz": 3668.5
   },
   "silver": {
-   "last": 142399.38,
-   "prev": 130506.15,
+   "last": 142414.69,
+   "prev": 130520.18,
    "chgPct": 9.11,
-   "high52": 374978.73,
-   "low52": 130506.15,
+   "high52": 375019.06,
+   "low52": 130520.18,
    "offHighPct": -62.02,
    "chg30Pct": -18.25,
    "usdOz": 43.7
@@ -75,12 +75,6 @@
    "level": "warn",
    "title": "Gold jumped 3.8% today",
    "body": "Keep buying only your monthly gold SIP. No lumpsum."
-  },
-  {
-   "id": "inr-move-20261128",
-   "level": "warn",
-   "title": "Rupee moved +0.8% vs USD (₹92.98)",
-   "body": "Imported items (phones, electronics) price changes follow. Your gold/silver SIP is the rupee hedge."
   }
  ],
  "note": "Gold/silver = international price × USD/INR × India duty+GST factor (estimate). Jeweller rates differ by city and making charges."
